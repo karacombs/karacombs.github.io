@@ -93,6 +93,10 @@ page-layout: full
 ::: {.accordion-collapse .collapse .show #collapse2025 data-bs-parent="#newsAccordion"}
 ::: {.accordion-body}
 
+**November 2025**
+
+- INFORMS Cincinnati-Dayton awarded a 2024 Chapter Excellence award
+
 **September 2025**  
 
 - Oral presentation and poster accepted at [AFRL Discover](https://airforcetechconnect.org/events/afrl-discover-symposium)
