@@ -257,6 +257,29 @@ See below for a collection of stories and spotlights featuring my work, my stude
 
 ## 2025
 
+### UAlbany PhD Student Receives Federal National Defense Scholarship
+
+UAlbany News Center article featuring Olivia Benaoumeur, an U.S. Department of Defense SMART scholarship recipent and one of Kara's mentees
+
+```{=html}
+<div class="features-carousel" data-carousel="carousel18">
+    <button class="carousel-nav prev" onclick="moveCarousel(-1, 'carousel18')">‹</button>
+    <button class="carousel-nav next" onclick="moveCarousel(1, 'carousel18')">›</button>
+
+    <div class="carousel-wrapper" id="carousel18">
+      <a href="https://www.albany.edu/news-center/news/2025-ualbany-phd-student-receives-federal-national-defense-scholarship" class="feature-card" target="_blank">
+        <div class="card-image has-img" style="background-color: white;">
+          <img src="https://www.albany.edu/sites/default/files/styles/social_imag/public/Olivia_1_mn.jpg" alt="UAlbany News Center" style="object-fit: cover; object-position: center 5%;">
+        </div>
+        <div class="feature-card-content">
+          <div class="date">November 2025</div>
+          <div class="outlet">UAlbany News Center</div>
+        </div>
+      </a>
+    </div>
+  </div>
+```
+
 ### Department of the Air Force (DAF) LEGACY Good News Story
 
 2024 & 2025 LEGACY intern, Isaiah Goble, was featured in the Wright-Patterson Air Force Base Educational Outreach Office's (WPAFB E.O.) May 2025 newsletter for his successful presentation at the AIAA Dayton-Cincinnati Aerospce Sciences Symposium in March 2025
