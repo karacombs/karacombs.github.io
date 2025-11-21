@@ -49,6 +49,12 @@ Below is a collection of awards and honors recieved in recognition of contributi
 
 ## 2025
 <details>
+  <summary><strong>Chapter Excellence Award</strong>, <em>INFORMS</em></summary>
+  <p>
+  The INFORMS Cincinnati-Dayton Chapter was selected based on its performance in membership, providing value to members, providing value to the community, communications, special initiatives, and administrative tasks.
+  </p>
+</details>
+<details>
   <summary><strong>Best Track Paper Nomination</strong>, <em>58th Hawaii International Conference on System Sciences (HICSS)</em></summary>
   <p>
   Nominated for the HICSS Decision Analytics and Service Science Track's best paper for "Zero-shot comparison of large language models (LLMs) reasoning abilities on long-text analogies" (19 papers nominated out of 132 accepted papers across 34 mini-tracks)
