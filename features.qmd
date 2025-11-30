@@ -805,6 +805,7 @@ class Carousel {
     this.scrollTimeout = null;
     this.isScrolling = false;
     this.hasMoved = false;
+    this.dragDistance = 0;
     
     this.init();
   }
@@ -840,8 +841,10 @@ class Carousel {
   }
   
   handleCardClick(e) {
-    if (this.hasMoved) {
+    // Only prevent click if there was significant movement (drag)
+    if (this.hasMoved && this.dragDistance > 10) {
       e.preventDefault();
+      e.stopPropagation();
       return false;
     }
   }
@@ -960,7 +963,10 @@ class Carousel {
   }
   
   dragStart(e) {
-    e.preventDefault();
+    // Don't prevent default on touch to allow normal touch behavior
+    if (e.type !== 'touchstart') {
+      e.preventDefault();
+    }
     
     if (e.type === 'touchstart') {
       this.startPos = e.touches[0].clientX;
@@ -970,14 +976,13 @@ class Carousel {
     
     this.isDragging = true;
     this.hasMoved = false;
+    this.dragDistance = 0;
     this.animationId = requestAnimationFrame(() => this.animation());
     this.carouselContainer.style.cursor = 'grabbing';
   }
   
   dragMove(e) {
     if (!this.isDragging) return;
-    
-    e.preventDefault();
     
     let currentPosition;
     if (e.type === 'touchmove') {
@@ -987,8 +992,11 @@ class Carousel {
     }
     
     const diff = currentPosition - this.startPos;
+    this.dragDistance = Math.abs(diff);
     
-    if (Math.abs(diff) > 5) {
+    // Only prevent default and mark as moved if there's significant movement
+    if (this.dragDistance > 10) {
+      e.preventDefault();
       this.hasMoved = true;
     }
     
@@ -1014,9 +1022,11 @@ class Carousel {
     
     this.updateCarousel();
     
+    // Reset after a brief delay
     setTimeout(() => {
       this.hasMoved = false;
-    }, 10);
+      this.dragDistance = 0;
+    }, 50);
   }
   
   handleWheel(e) {
