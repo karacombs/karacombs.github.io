@@ -306,8 +306,9 @@ function initCertCarousel() {
   // Add click handlers
   certCarousel.items.forEach(card => {
     card.addEventListener('click', (e) => {
-      if (certCarousel.hasMoved) {
+      if (certCarousel.hasMoved && certCarousel.dragDistance > 10) {
         e.preventDefault();
+        e.stopPropagation();
         return false;
       }
     });
@@ -395,22 +396,26 @@ function moveCertCarousel(direction) {
 }
 
 function certDragStart(e) {
-  e.preventDefault();
+  if (e.type !== 'touchstart') {
+    e.preventDefault();
+  }
   certCarousel.startPos = e.type === 'touchstart' ? e.touches[0].clientX : e.clientX;
   certCarousel.isDragging = true;
   certCarousel.hasMoved = false;
+  certCarousel.dragDistance = 0;
   certCarousel.animationId = requestAnimationFrame(certAnimation);
   certCarousel.carouselContainer.style.cursor = 'grabbing';
 }
 
 function certDragMove(e) {
   if (!certCarousel.isDragging) return;
-  e.preventDefault();
   
   const currentPosition = e.type === 'touchmove' ? e.touches[0].clientX : e.clientX;
   const diff = currentPosition - certCarousel.startPos;
+  certCarousel.dragDistance = Math.abs(diff);
   
-  if (Math.abs(diff) > 5) {
+  if (certCarousel.dragDistance > 10) {
+    e.preventDefault();
     certCarousel.hasMoved = true;
   }
   
@@ -438,7 +443,8 @@ function certDragEnd() {
   
   setTimeout(() => {
     certCarousel.hasMoved = false;
-  }, 10);
+    certCarousel.dragDistance = 0;
+  }, 50);
 }
 
 function handleCertWheel(e) {
@@ -809,7 +815,8 @@ let memberCarousel = {
   animationId: 0,
   scrollTimeout: null,
   isScrolling: false,
-  hasMoved: false
+  hasMoved: false,
+  dragDistance: 0
 };
 
 function initMemberCarousel() {
@@ -825,8 +832,9 @@ function initMemberCarousel() {
   // Add click handlers
   memberCarousel.items.forEach(card => {
     card.addEventListener('click', (e) => {
-      if (memberCarousel.hasMoved) {
+      if (memberCarousel.hasMoved && memberCarousel.dragDistance > 10) {
         e.preventDefault();
+        e.stopPropagation();
         return false;
       }
     });
@@ -914,22 +922,26 @@ function moveMemberCarousel(direction) {
 }
 
 function memberDragStart(e) {
-  e.preventDefault();
+  if (e.type !== 'touchstart') {
+    e.preventDefault();
+  }
   memberCarousel.startPos = e.type === 'touchstart' ? e.touches[0].clientX : e.clientX;
   memberCarousel.isDragging = true;
   memberCarousel.hasMoved = false;
+  memberCarousel.dragDistance = 0;
   memberCarousel.animationId = requestAnimationFrame(memberAnimation);
   memberCarousel.carouselContainer.style.cursor = 'grabbing';
 }
 
 function memberDragMove(e) {
   if (!memberCarousel.isDragging) return;
-  e.preventDefault();
   
   const currentPosition = e.type === 'touchmove' ? e.touches[0].clientX : e.clientX;
   const diff = currentPosition - memberCarousel.startPos;
+  memberCarousel.dragDistance = Math.abs(diff);
   
-  if (Math.abs(diff) > 5) {
+  if (memberCarousel.dragDistance > 10) {
+    e.preventDefault();
     memberCarousel.hasMoved = true;
   }
   
@@ -957,7 +969,8 @@ function memberDragEnd() {
   
   setTimeout(() => {
     memberCarousel.hasMoved = false;
-  }, 10);
+    memberCarousel.dragDistance = 0;
+  }, 50);
 }
 
 function handleMemberWheel(e) {
