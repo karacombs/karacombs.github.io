@@ -260,7 +260,7 @@ setInterval(() => {plusMentoringSlides(1);}, 8000);
 
 ## Leadership Experience Growing Apprenticeships Committed to Youth (LEGACY) Program
 <details>
-  <summary><strong>Isaiah Goble</strong>, <em>Student at Stebbins High School (2026)</em></summary>
+  <summary><strong>Isaiah Goble</strong>, <em>B.S. in computer engineering from TBD (2030) </em></summary>
   <ul>
     <li> 2025 Project: Development of machine-interpretable knowledge graph datasets from analogies </li>
     <li> 2024 Project: Evaluation and comparison of large language models’ analogical reasoning abilities (incorporated into [IEEE Transactions on Cognitive and Developmental Systems Paper](https://doi.org/10.1109/TCDS.2025.3559771)) </li>
@@ -278,7 +278,7 @@ Mentees are assigned to a mentor throughout their degree while summer interns ar
 <details>
   <summary><strong>Jacqueline Liu</strong>, <em>Ph.D. in computer science at Binghamton University (SUNY) (2027)</em></summary>
   <ul>
-    <li> 2025 Project: Efficient Hyperspectral Data Processing on the Edge: Band Selection with Mamba Models  </li>
+    <li> 2025 Project: Efficient Hyperspectral Data Processing on the Edge: Band Selection with Mamba Models </li>
   </ul>
 </details>
 
