@@ -47,6 +47,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
 Below is a collection of awards and honors recieved in recognition of contributions to research, professional service, and community engagement
 
+<!-- ## 2026 -->
+
 ## 2025
 <details>
   <summary><strong>2024 Chapter Excellence Award</strong>, <em>INFORMS</em></summary>
@@ -66,7 +68,6 @@ Below is a collection of awards and honors recieved in recognition of contributi
   <a href="https://hdl.handle.net/10125/109034" class="btn btn-secondary" target="_blank" style="border-radius: 24px; padding: 10px 24px;">
     Read the paper
   </a>
-  
 </details>
 
 ## 2024

@@ -9,8 +9,8 @@ page-layout: article
 - B.S. Industrial and Systems Engineering, *Wright State University*, Aug. 2017 - May 2021
 
 ## Experience
-- Computer Engineer, *Air Force Research Laboratory (Sensors Directorate)*, Jan. 2025 - present
-- Associate Computer Engineer, *Air Force Research Laboratory (Sensors Directorate)*, Feb. 2023 - Jan. 2025
+- Computer Engineer, *Air Force Research Laboratory*, Jan. 2025 - present
+- Associate Computer Engineer, *Air Force Research Laboratory*, Feb. 2023 - Jan. 2025
 - Research Engineer, *Applied Research Solutions*, Apr. 2022 - Feb. 2023
 - Graduate Research Assistant, *Wright State University*, May 2021 - Dec. 2021
 - Research Engineer Intern, *Applied Research Solutions*, May 2020 - Mar. 2022
