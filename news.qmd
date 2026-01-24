@@ -97,6 +97,8 @@ page-layout: full
 
 - Three papers published in the Proceedings of the [59th Hawaii International Conference on System Sciences (HICSS)](https://hicss.hawaii.edu/), see more at my [publications](publications.html#2026) page
 
+- Successfully defended Ph.D. dissertation
+
 :::
 :::
 :::
