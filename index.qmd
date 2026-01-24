@@ -52,7 +52,7 @@ I am a computer engineer at the Air Force Research Laboratory and a operations r
 
 **January 2026**
 
-- Successfully defending Ph.D. dissertation
+- Successfully defended Ph.D. dissertation, "Modernization of Analogical Reasoning Through Knowledge Graphs: Representation, Mapping, and Learning"
 
 - Three papers published in the Proceedings of the [59th Hawaii International Conference on System Sciences (HICSS)](https://hicss.hawaii.edu/), see more at my [publications](publications.html#2026) page
 

@@ -95,9 +95,9 @@ page-layout: full
 
 **January 2026**
 
-- Three papers published in the Proceedings of the [59th Hawaii International Conference on System Sciences (HICSS)](https://hicss.hawaii.edu/), see more at my [publications](publications.html#2026) page
+- Successfully defended Ph.D. dissertation, "Modernization of Analogical Reasoning Through Knowledge Graphs: Representation, Mapping, and Learning"
 
-- Successfully defended Ph.D. dissertation
+- Three papers published in the Proceedings of the [59th Hawaii International Conference on System Sciences (HICSS)](https://hicss.hawaii.edu/), see more at my [publications](publications.html#2026) page
 
 :::
 :::
