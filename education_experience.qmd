@@ -750,7 +750,7 @@ window.addEventListener('resize', updateCertCarousel);
 
     <a href="https://www.mors.org/" class="member-card" target="_blank">
       <div class="member-card-image has-img" style="background-color: white;">
-        <img src="https://www.mors.org/Portals/87/Images/logo-2x.png" alt="MORS" style="object-fit: contain;">
+        <img src="https://www.trideum.com/wp-content/uploads/2023/06/MORS-logo.png" alt="MORS" style="object-fit: contain;">
       </div>
       <div class="member-card-content">
         <div class="status">Student Member</div>
