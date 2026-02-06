@@ -111,7 +111,7 @@ page-layout: full
 </button>
 ```
 :::
-::: {.accordion-collapse .collapse .show #collapse2025 data-bs-parent="#newsAccordion"}
+::: {.accordion-collapse .collapse #collapse2025 data-bs-parent="#newsAccordion"}
 ::: {.accordion-body}
 
 **November 2025**
