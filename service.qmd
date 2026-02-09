@@ -7,7 +7,46 @@ I am committed to advancing my profession and community through active service a
 
 ## Professional Service
 
+::: {.panel-tabset}
+
+### Current Positions
+
 |Position|Organization|
+|--------|------------|
+|President|Cincinnati-Dayton INFORMS Chapter|
+|Editorial Board Member|*OR/MS Tomorrow* (student-led magazine of INFORMS)|
+|Secretary-Treasurer|Tau Beta Pi Dayton Alumni Chapter|
+|Treasurer|Tau Beta Pi Ohio Eta Chapter (at AFIT)|
+|Advisor|Tau Beta Pi Ohio Mu Chapter (at WSU)|
+|Director of Communications|TechFest Dayton Foundation|
+|Exhibitors Coordinator|TechFest Dayton Steering Committee|
+|Member|Wright State University Biomedical, Industrial and Human Factors Engineering Department's External Advisory Board|
+|Member|Milton-Union Miami Valley Career Technical Center STEM Advisory Board|
+
+### Previous Positions
+
+|Term|Position|Organization|
+|----|--------|------------|
+|2024-2026|Member|Tau Beta Pi Ohio Eta Chapter (AFIT) Best Thesis Committee|
+|2024-2026|President| Tau Beta Pi Dayton Alumni Chapter|
+|2024-2025|Treasurer|Cincinnati-Dayton INFORMS Chapter|
+|2024-2025|Division Liaison|AFRL Sensors Directorate Junior Force Council|
+|2024-2025|Advisor|Tau Beta Pi Student Advisory Board|
+|2024-2025|Secretary|Society of Women Engineers South Ohio Section|
+|2024|Secretary-Treasurer|Tau Beta Pi Ohio Eta Chapter (AFIT)|
+|2023-2025|Lead/Co-lead Editor| *OR/MS Tomorrow* (student-led magazine of INFORMS)|
+|2023-2024|Secretary|Tau Beta Pi Ohio Eta Chapter (AFIT)|
+|2023-2024|Board Member|IISE Dayton-Cincinnnati Chapter|
+|2023-2024|Member|Tau Beta Pi Student Advisory Board|
+|2022-2023|Vice Chair|Tau Beta Pi Student Advisory Board|
+|2022| All-Ohio Activities Lead|IISE Dayton-Cincinnati Chapter|
+|2021-2023|Social Media Coordinator|*OR/MS Tomorrow* (student-led magazine of INFORMS)|
+|2021-2022|Outreach Committee Chair|Tau Beta Pi Student Advisory Board|
+|2021-2022|Board Member|IISE Student Leadership Board|
+
+:::
+
+<!-- |Position|Organization|
 |--------|------------|
 |President|Cincinnati-Dayton INFORMS Chapter|
 |Editorial Board Member|*OR/MS Tomorrow* (student-led magazine of INFORMS)|
@@ -17,7 +56,7 @@ I am committed to advancing my profession and community through active service a
 |Director of Communications| TechFest Dayton Foundation|
 |Exhibitors Coordinator| TechFest Dayton Steering Committee|
 |Member| Wright State University Biomedical, Industrial and Human Factors Engineering Department's External Advisory Board|
-|Member| Milton-Union Miami Valley Career Technical Center STEM Advisory Board|
+|Member| Milton-Union Miami Valley Career Technical Center STEM Advisory Board| -->
 
 ## Journal/Conference Service
 
