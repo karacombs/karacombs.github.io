@@ -698,7 +698,8 @@ window.addEventListener('resize', updateCertCarousel);
   <button class="member-carousel-nav next" onclick="moveMemberCarousel(1)">›</button>
 
   <div class="member-carousel-wrapper" id="memberCarousel">
-    <a href="https://www.asee.org/" class="member-card" target="_blank">
+
+    <!-- <a href="https://www.asee.org/" class="member-card" target="_blank">
       <div class="member-card-image has-img" style="background-color: white;">
         <img src="https://aseecmsprod.azureedge.net/aseecmsprod/asee/media/content/asee%20logos%20for%20download/logo-full-color-rgb.png" alt="ASEE" style="object-fit: contain;">
       </div>
@@ -706,7 +707,7 @@ window.addEventListener('resize', updateCertCarousel);
         <div class="status">Student Member</div>
         <div class="org-name">American Society for Engineering Education</div>
       </div>
-    </a>
+    </a> -->
 
     <a href="https://www.aaai.org/" class="member-card" target="_blank">
       <div class="member-card-image has-img" style="background-color: white;">
