@@ -97,6 +97,8 @@ page-layout: full
 
 - [TechFest Dayton 2026](https://www.techfestdayton.com/) had over 2,500+ attendees, of which 1,500+ were K-12 students, check out over 50 exhibitors and presentors at the event over President's Day weekend
 
+- Nominated at the division-level for the 2025 Dr. Samuel M. Burka Memorial Award and the 2025Q4 Lab Scientist of the Quarter
+
 **January 2026**
 
 - Successfully defended Ph.D. dissertation, "Modernization of Analogical Reasoning Through Knowledge Graphs: Representation, Mapping, and Learning"

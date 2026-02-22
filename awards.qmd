@@ -47,7 +47,19 @@ document.addEventListener('DOMContentLoaded', function() {
 
 Below is a collection of awards and honors recieved in recognition of contributions to research, professional service, and community engagement
 
-<!-- ## 2026 -->
+## 2026
+<details>
+  <summary><strong>Divison Nominee for the Dr. Samuel M. Burka Memorial Award</strong>, <em>AFRL Sensors Directorate</em></summary>
+  <p>
+  Award recognizes the most significant in-house scientific accomplishment of the year; Nominated by second-level supervisor (Division Chief)
+  </p>
+</details>
+<details>
+  <summary><strong>Division Nominee for the Lab Scientist of 2025 Q4</strong>, <em>AFRL Sensors Directorate</em></summary>
+  <p>
+  Award recognizes significant contributions made during the final quarter of 2025; Nominated by second-level supervisor (Division Chief)
+  </p>
+</details>
 
 ## 2025
 <details>
