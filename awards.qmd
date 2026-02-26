@@ -49,6 +49,12 @@ Below is a collection of awards and honors recieved in recognition of contributi
 
 ## 2026
 <details>
+  <summary><strong>Divison Nominee for the Veiled Director's Cup Team Award</strong>, <em>AFRL Sensors Directorate</em></summary>
+  <p>
+  Award recognized the Generating Adversarial Activity Models Automatically (GAAMA) team for their contributions to a classified program; Nominated by second-level supervisor (Division Chief)
+  </p>
+</details>
+<details>
   <summary><strong>Divison Nominee for the Dr. Samuel M. Burka Memorial Award</strong>, <em>AFRL Sensors Directorate</em></summary>
   <p>
   Award recognizes the most significant in-house scientific accomplishment of the year; Nominated by second-level supervisor (Division Chief)
