@@ -257,6 +257,31 @@ See below for a collection of stories and spotlights featuring my work, my stude
 
 ## 2025
 
+### TechFest Dayton 2026
+
+TechFest Dayton 2026 was amazing with over 2,500 attendees across the two days; below is a news clip about the event on local news.
+
+```{=html}
+<div class="features-carousel" data-carousel="carousel2">
+    <button class="carousel-nav prev" onclick="moveCarousel(-1, 'carousel2')">‹</button>
+    <button class="carousel-nav next" onclick="moveCarousel(1, 'carousel2')">›</button>
+
+    <div class="carousel-wrapper" id="carousel2">
+
+      <a href="https://www.wdtn.com/news/techfest-stem-fair-with-80-activities-this-weekend/" class="feature-card" target="_blank">
+        <div class="card-image has-img" style="background-color: white;">
+          <img src="http://www.techfestdayton.org/wp-content/uploads/2024/09/Techfest-photo-18.jpg" alt="WDTN 2 News" style="object-fit: cover;">
+        </div>
+        <div class="feature-card-content">
+          <div class="date">February 2025</div>
+          <div class="outlet">WDTN 2 News</div>
+        </div>
+      </a>
+
+    </div>
+  </div>
+```
+
 ### UAlbany PhD Student Receives Federal National Defense Scholarship
 
 UAlbany News Center article featuring Olivia Benaoumeur, an U.S. Department of Defense SMART scholarship recipent and one of Kara's mentees
@@ -305,7 +330,7 @@ UAlbany News Center article featuring Olivia Benaoumeur, an U.S. Department of D
 
 ### TechFest Dayton 2025
 
-TechFest Dayton 2025 was a great success with over 2,200+ attendees across the two days. Below is news coverage of the event itself and advertisement beforehand
+TechFest Dayton 2025 was a great success with 2,200+ attendees across the two days. Below is news coverage of the event itself and advertisement beforehand
 
 ```{=html}
 <div class="features-carousel" data-carousel="carousel2">
