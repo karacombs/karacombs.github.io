@@ -270,10 +270,10 @@ TechFest Dayton 2026 was amazing with over 2,500 attendees across the two days; 
 
       <a href="https://www.wdtn.com/news/techfest-stem-fair-with-80-activities-this-weekend/" class="feature-card" target="_blank">
         <div class="card-image has-img" style="background-color: white;">
-          <img src="http://www.techfestdayton.org/wp-content/uploads/2024/09/Techfest-photo-18.jpg" alt="WDTN 2 News" style="object-fit: cover;">
+          <img src="http://www.techfestdayton.org/wp-content/uploads/2023/11/JSS13917-scaled.jpg" alt="WDTN 2 News" style="object-fit: cover;">
         </div>
         <div class="feature-card-content">
-          <div class="date">February 2025</div>
+          <div class="date">February 2026</div>
           <div class="outlet">WDTN 2 News</div>
         </div>
       </a>
