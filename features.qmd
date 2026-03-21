@@ -255,7 +255,7 @@ format:
 ```
 See below for a collection of stories and spotlights featuring my work, my students’ successes, and the communities I contribute to
 
-## 2025
+## 2026
 
 ### TechFest Dayton 2026
 
@@ -281,6 +281,8 @@ TechFest Dayton 2026 was amazing with over 2,500 attendees across the two days; 
     </div>
   </div>
 ```
+
+## 2025
 
 ### UAlbany PhD Student Receives Federal National Defense Scholarship
 

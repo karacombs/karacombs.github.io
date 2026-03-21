@@ -28,18 +28,6 @@ class="underline"
 ## Hi! I'm Kara Combs!
 
 I am a computer engineer at the Air Force Research Laboratory and a operations research Ph.D. candidate at the Air Force Institute of Technology. My research focuses on improving defense applications of artificial intelligence and machine learning (AI/ML) systems through biologically-inspired advancements based on analogical reasoning, neuroscience, and more! I have 20+ peer-reviewed publications and have presented my work at 30+ conferences. I am active in several professional societies and K-12 STEM outreach events.
-
-<!-- #### Current collaboration opportunities
-- [SOCHE Defense Associated Graduate Student Innovators (DAGSI) Fellowship](https://www.soche.org/programs-and-services/employers/dagsi/): Provides funding to one graduate student and facilty stipend at DAGSI-elgible Ohio institutions of higher education (applications due in early February 2026)
-  - [Uncrewed aerial vehicles (UAV) detection using neuromorphic solutions](https://www.soche.org/wp-content/uploads/2025/10/RY26-1-Combs.pdf)
-  - [Reinforcement learning guided by analogical graph neural networks (GNNs)](https://www.soche.org/wp-content/uploads/2025/10/RY26-2-Combs.pdf)
-  - [Situationally Aware, Intent-based Sensor Fusion and Generative AI](https://www.soche.org/wp-content/uploads/2025/10/RY26-3-Combs.pdf) -->
-
-<!-- ### Quick Links -->
-<!-- - See my **[Publications](publications.qmd)**
-- See my **[Service](service.qmd)** -->
-<!-- - View my **[Projects](projects.qmd)** -->
-<!-- - Grab my **[CV](education_experience.qmd)** -->
 :::
 
 :::
@@ -50,17 +38,15 @@ I am a computer engineer at the Air Force Research Laboratory and a operations r
 
 ::: {.timeline}
 
+**March 2026**
+
+- Presentation accepted at the [94th Military Operations Research Society (MORS) Symposium](https://www.mors.org/events/symposia/94th-symposium)
+
 **February 2026**
 
 - [TechFest Dayton 2026](https://www.techfestdayton.com/) had over 2,500+ attendees, of which 1,500+ were K-12 students, check out over 50 exhibitors and presenters at the event over President's Day weekend (see 2 News WDTN feature [here](https://www.wdtn.com/news/techfest-stem-fair-with-80-activities-this-weekend/))
 
 - Nominated at the division-level for the 2025 Dr. Samuel M. Burka Memorial Award, the 2025 Lab Scientist of the Fourth Quarter, and the Veiled Director's Cup Team Award
-
-**January 2026**
-
-- Successfully defended Ph.D. dissertation, "Modernization of Analogical Reasoning Through Knowledge Graphs: Representation, Mapping, and Learning"
-
-- Three papers published in the Proceedings of the [59th Hawaii International Conference on System Sciences (HICSS)](https://hicss.hawaii.edu/), see more at my [publications](publications.html#2026) page
 
 :::
 
