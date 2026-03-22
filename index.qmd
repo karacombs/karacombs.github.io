@@ -42,6 +42,8 @@ I am a computer engineer at the Air Force Research Laboratory and a operations r
 
 - Presentation accepted at the [94th Military Operations Research Society (MORS) Symposium](https://www.mors.org/events/symposia/94th-symposium)
 
+- Analogy2KG ("Analogy to Knowledge Graph") article published in **Knowledge-based Systems** journal (see [here](https://doi.org/10.1016/j.knosys.2026.115772))
+
 **February 2026**
 
 - [TechFest Dayton 2026](https://www.techfestdayton.com/) had over 2,500+ attendees, of which 1,500+ were K-12 students, check out over 50 exhibitors and presenters at the event over President's Day weekend (see 2 News WDTN feature [here](https://www.wdtn.com/news/techfest-stem-fair-with-80-activities-this-weekend/))
