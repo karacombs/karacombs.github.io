@@ -248,7 +248,7 @@ setInterval(() => {plusMentoringSlides(1);}, 8000);
 <details>
   <summary><strong>James Pennington</strong>, <em>Ph.D. in computer science from Ohio University (2027)</em></summary>
   <ul>
-    <li> 2025 - 2026 Project: Advanced multi-platform and multi-source fusion </li>
+    <li> 2025 - 2027 Project: Advanced multi-platform and multi-source fusion </li>
   </ul>
 </details>
 <details>

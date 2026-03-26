@@ -4,7 +4,7 @@ page-layout: article
 ---
 
 ## Education
-- Ph.D. Operations Research, *Air Force Institute of Technology*, Jan. 2023 – present
+- Ph.D. Operations Research, *Air Force Institute of Technology*, Jan. 2023 – Mar. 2026
 - M.S. Industrial and Human Factors Engineering, *Wright State University*, Aug. 2019 - Dec. 2021
 - B.S. Industrial and Systems Engineering, *Wright State University*, Aug. 2017 - May 2021
 

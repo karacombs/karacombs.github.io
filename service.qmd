@@ -16,7 +16,7 @@ I am committed to advancing my profession and community through active service a
 |President|Cincinnati-Dayton INFORMS Chapter|
 |Editorial Board Member|*OR/MS Tomorrow* (Student-led magazine of INFORMS)|
 |Secretary-Treasurer|Tau Beta Pi Dayton Alumni Chapter|
-|Treasurer|Tau Beta Pi Ohio Eta Chapter (Air Force Institute of Technology)|
+|Advisor|Tau Beta Pi Ohio Eta Chapter (Air Force Institute of Technology)|
 |Advisor|Tau Beta Pi Ohio Mu Chapter (Wright State University)|
 |Director of Communications|TechFest Dayton Foundation|
 |Exhibitors Coordinator|TechFest Dayton Steering Committee|
@@ -27,6 +27,7 @@ I am committed to advancing my profession and community through active service a
 
 |Term|Position|Organization|
 |----|--------|------------|
+|2024-2026|Treasurer|Tau Beta Pi Ohio Eta Chapter (Air Force Institute of Technology)|
 |2024-2026|Member|Tau Beta Pi Ohio Eta Chapter (AFIT) Best Thesis Committee|
 |2024-2026|President| Tau Beta Pi Dayton Alumni Chapter|
 |2024-2025|Treasurer|Cincinnati-Dayton INFORMS Chapter|
