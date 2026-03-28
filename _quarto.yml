@@ -13,14 +13,12 @@ website:
     left:
       - text: Home
         href: /
-      - text: Education & Experience
-        href: education_experience.qmd
+      - text: About Me
+        href: about_me.qmd
       - text: Publications
         href: publications.qmd
       - text: Awards
         href: awards.qmd
-      - text: Service
-        href: service.qmd
       - text: Mentees
         href: mentees.qmd
       - text: Features
