@@ -24,8 +24,6 @@ website:
       - text: Features
         href: features.qmd
     right:
-      - icon: github
-        href: https://github.com/karacombs
       - icon: linkedin
         href: https://www.linkedin.com/in/karacombs33
       - icon: envelope

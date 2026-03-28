@@ -101,7 +101,20 @@ I enjoy working with students of all ages and make an effort to mentor the next 
       <div class="slide-text" style="flex: 1; padding-left: 20px; display: flex; flex-direction: column; justify-content: center;">
         <h4 style="color: #553590; margin-bottom: 15px;">Isaiah Goble</h4>
         <h6 margin-bottom: 15px;"><em>LEGACY Jr. Apprentice 2024 & 2025</em></h6>
-        <p>Projects incorporated into an AIAA DCASS presentation and IEEE TCDS paper</p>
+        <p>Projects incorporated into two AIAA DCASS presentations, an IEEE NAECON paper, and anIEEE TCDS paper</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="mentoring-slide fade active">
+    <div class="slide-content" style="display: flex; align-items: center; justify-content: center; padding: 20px 70px; min-height: 300px;">
+      <div class="slide-image" style="flex: 0 0 40%; margin-right: 30px;">
+        <img src="assets/mentees/OliviaBenAoumeur.jpg" style="width: 100%; height: 250px; object-fit: cover; object-position: center 30%; border-radius: 8px;">
+      </div>
+      <div class="slide-text" style="flex: 1; padding-left: 20px; display: flex; flex-direction: column; justify-content: center;">
+        <h4 style="color: #553590; margin-bottom: 15px;">Olivia Ben Aoumeur</h4>
+        <h6 margin-bottom: 15px;"><em>SMART Scholar 2026</em></h6>
+        <p>Pursuing Ph.D. in information sciences at Albany University (SUNY)</p>
       </div>
     </div>
   </div>
