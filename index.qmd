@@ -27,7 +27,7 @@ class="underline"
 ::: {.g-col-12 .g-col-md-8}
 ## Hi! I'm Kara Combs!
 
-I am a computer engineer at the Air Force Research Laboratory and a operations research Ph.D. candidate at the Air Force Institute of Technology. My research focuses on improving defense applications of artificial intelligence and machine learning (AI/ML) systems through biologically-inspired advancements based on analogical reasoning, neuroscience, and more! I have 20+ peer-reviewed publications and have presented my work at 30+ conferences. I am active in several professional societies and K-12 STEM outreach events.
+I am a computer engineer at the Air Force Research Laboratory. I hold a Ph.D. in operations research, a M.S. in industrial and human factors engineering, and a B.S. in industrial and systems engineering. My research focuses on enhancing defense applications of artificial intelligence and machine learning (AI/ML) through biologically-inspired mechanisms based on analogical reasoning, neuroscience, and more! I have 20+ peer-reviewed publications and have presented my work at 30+ conferences. I am active in several professional societies and K-12 STEM outreach events.
 :::
 
 :::
@@ -40,9 +40,11 @@ I am a computer engineer at the Air Force Research Laboratory and a operations r
 
 **March 2026**
 
+- Graduated from the Air Force Institute of Technology with a Ph.D. in Operations Research
+
 - Presentation accepted at the [94th Military Operations Research Society (MORS) Symposium](https://www.mors.org/events/symposia/94th-symposium)
 
-- Analogy2KG ("Analogy to Knowledge Graph") article published in **Knowledge-based Systems** journal (see [here](https://doi.org/10.1016/j.knosys.2026.115772))
+- Analogy2KG ("Analogy to Knowledge Graph") article published in *Knowledge-based Systems* journal (see [here](https://doi.org/10.1016/j.knosys.2026.115772))
 
 **February 2026**
 

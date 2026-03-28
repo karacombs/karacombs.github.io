@@ -562,7 +562,7 @@ Awarded the "trifecta" of Tau Beta Pi student awards and honors: an undergraduat
 
       <a href="https://webapp2.wright.edu/web1/newsroom/2021/10/05/tau-beta-pi-trifecta/" class="feature-card" target="_blank">
         <div class="card-image has-img" style="background-color: white;">
-          <img src="https://taubetapiathq.com/wp-content/uploads/2021/10/photo_2021-10-18_10-06-54.jpg" alt="WSU Newsroom" style="object-fit: cover;object-position: center 24%;">
+          <img src="https://webapp2.wright.edu/web1/newsroom/files/2021/10/Kara-Combs-2-191x300.jpg" alt="Tau Beta Pi Blog" style="object-fit: cover;object-position: center top;">
         </div>
         <div class="feature-card-content">
           <div class="date">October 2021</div>
