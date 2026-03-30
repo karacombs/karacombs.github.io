@@ -1,0 +1,528 @@
+---
+title: "Collaboration Opportunities"
+page-layout: full
+format:
+  html:
+    toc: false
+---
+
+Interested in collaborating? Use the tool below to receive a personalized set of opportunities tailored to your role and interests. Note that the majority of opportunities are limited to U.S. citizens due to funding and security requirements, but there are some options for international collaborators as well. Lastly, funding is not necessarily available for all these opportunities at this time; however, with advance notice, we can often identify potential funding sources and support proposal development for strong collaborations.
+
+```{=html}
+<style>
+.collab-shell {
+	background: linear-gradient(130deg, #f4f5f8 0%, #ffffff 55%, #eef2f8 100%);
+	border: 1px solid #e5e8ef;
+	border-radius: 18px;
+	padding: 1.5rem;
+	margin-bottom: 2rem;
+}
+
+.collab-headline {
+	margin-bottom: 0.5rem;
+	font-size: 2rem;
+}
+
+.collab-subtitle {
+	color: #4a5768;
+	max-width: 65ch;
+}
+
+.question-group {
+	margin-top: 1.4rem;
+	padding: 1rem;
+	border: 1px solid #dce2ec;
+	border-radius: 14px;
+	background: #ffffff;
+}
+
+.question-group legend {
+	font-weight: 700;
+	color: #263241;
+	font-size: 1.02rem;
+}
+
+.option-grid {
+	display: block;
+	margin-top: 0.8rem;
+}
+
+.option-card {
+	border: 1px solid #d4dce8;
+	border-radius: 10px;
+	padding: 0.65rem 0.75rem;
+	background: #fafcff;
+	margin-bottom: 0.65rem;
+}
+
+.option-card:hover {
+	border-color: #7c8faa;
+	background: #f5f9ff;
+}
+
+.option-card label {
+	display: flex;
+	gap: 0.5rem;
+	align-items: center;
+	margin: 0;
+	cursor: pointer;
+}
+
+.action-row {
+	display: flex;
+	gap: 0.8rem;
+	margin-top: 1.2rem;
+	flex-wrap: wrap;
+}
+
+.action-row .btn {
+	border-radius: 10px;
+}
+
+.result-shell {
+	margin-top: 1.8rem;
+}
+
+.result-shell[hidden] {
+	display: none;
+}
+
+.result-summary {
+	font-weight: 600;
+	color: #223042;
+	margin-bottom: 0.9rem;
+}
+
+.result-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+	gap: 0.9rem;
+}
+
+.opportunity-card {
+	border: 1px solid #d6ddeb;
+	border-radius: 12px;
+	background: #ffffff;
+	padding: 1rem;
+	box-shadow: 0 3px 10px rgba(28, 47, 73, 0.08);
+}
+
+.opportunity-card.applicable {
+	border-color: var(--bs-primary);
+	box-shadow: 0 5px 14px rgba(85, 53, 144, 0.2);
+	background: #fcfaff;
+}
+
+.opportunity-card.not-applicable {
+	border-color: #d3d8e0;
+	background: #f4f5f7;
+	box-shadow: none;
+	filter: grayscale(0.35);
+}
+
+.opportunity-card.not-applicable:hover {
+	background: #eceff3;
+	border-color: #c7ced8;
+	box-shadow: none;
+}
+
+.opportunity-card h3 {
+	font-size: 1.06rem;
+	margin: 0.2rem 0 0.45rem;
+}
+
+.opportunity-card p {
+	color: #46576d;
+	margin-bottom: 0.6rem;
+	line-height: 1.4;
+}
+
+.opportunity-meta {
+	font-size: 0.88rem;
+	color: #3a4d66;
+}
+
+.opportunity-card.not-applicable .opportunity-meta,
+.opportunity-card.not-applicable p {
+	color: #667483;
+	background: transparent;
+}
+
+.opportunity-card.not-applicable .btn {
+	border-color: #9ca8b7;
+	color: #556274;
+}
+
+.opportunity-card.not-applicable .btn:hover,
+.opportunity-card.not-applicable .btn:focus,
+.opportunity-card.not-applicable .btn:active {
+	background: #dfe4eb;
+	border-color: #9ca8b7;
+	color: #3f4b5a;
+}
+
+.opportunity-card .btn.disabled {
+	pointer-events: none;
+	opacity: 0.65;
+}
+
+.opportunity-card .btn {
+	border-radius: 10px;
+}
+
+.helper-text {
+	font-size: 0.9rem;
+	color: #4f5f73;
+	margin-top: 0.55rem;
+}
+
+@media (max-width: 800px) {
+	.collab-headline {
+		font-size: 1.7rem;
+	}
+}
+</style>
+
+<section class="collab-shell">
+	<!-- <h2 class="collab-headline">Please answer the following questions to see your personalized collaboration opportunities.</h2> -->
+	<!-- <p class="collab-subtitle">Answer the questions below. At the end, you will get a ranked set of opportunities tailored to your interests, role, and preferred level of involvement.</p> -->
+
+	<form id="collab-form" novalidate>
+
+		<fieldset class="question-group" data-question="role">
+			<legend>1. Which role best describes you?</legend>
+			<div class="option-grid">
+				<div class="option-card">
+					<label><input type="radio" name="role" value="faculty" required> Faculty or researcher </label>
+				</div>
+				<div class="option-card">
+					<label><input type="radio" name="role" value="gradstudent"> Graduate student </label>
+				</div>
+                <div class="option-card">
+					<label><input type="radio" name="role" value="ugstudent"> Undergraduate student </label>
+				</div>
+                <div class="option-card">
+					<label><input type="radio" name="role" value="hsstudent"> High school student (at least 16-years-old) </label>
+				</div>
+				<div class="option-card">
+					<label><input type="radio" name="role" value="industry"> Industry or small business leader </label>
+				</div>
+			</div>
+		</fieldset>
+
+		<fieldset class="question-group" data-question="length">
+			<legend>2. Are you interested in a summer, year-around opportunity, or both?</legend>
+			<div class="option-grid">
+				<div class="option-card">
+					<label><input type="radio" name="length" value="summer" required> Summer-only </label>
+				</div>
+				<div class="option-card">
+					<label><input type="radio" name="length" value="year"> Year-around</label>
+				</div>
+				<div class="option-card">
+					<label><input type="radio" name="length" value="both"> Both</label>
+				</div>
+			</div>
+		</fieldset>
+
+		<fieldset class="question-group" data-question="location">
+			<legend>3. Is your university/business located in any of the following regions? Select all that apply.</legend>
+			<div class="option-grid">
+                <div class="option-card">
+					<label><input type="checkbox" name="location" value="ohio" required> Ohio </label>
+				</div>
+				<div class="option-card">
+					<label><input type="checkbox" name="location" value="midatlantic" required> Mid-Atlantic as defined as Connecticut, Delaware, District of Columbia, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Vermont, Virginia, or West Virginia </label>
+				</div>
+				<div class="option-card">
+					<label><input type="checkbox" name="location" value="midwest"> Midwest as defined as Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Ohio, North Dakota, South Dakota, or Wisconsin </label>
+				</div>
+				<div class="option-card">
+					<label><input type="checkbox" name="location" value="international"> Non-U.S. country </label>
+				</div>
+                <div class="option-card">
+					<label><input type="checkbox" name="location" value="none"> I am not located in any of the above regions </label>
+				</div>
+			</div>
+		</fieldset>
+
+		<div class="action-row">
+			<button type="submit" class="btn btn-primary">Show My Opportunities</button>
+			<button type="button" id="reset-form" class="btn btn-outline-secondary">Start Over</button>
+		</div>
+		<p class="helper-text" id="validation-message" aria-live="polite"></p>
+	</form>
+
+	<section id="results" class="result-shell" hidden>
+		<h2>Recommended Opportunities</h2>
+		<p id="result-summary" class="result-summary"></p>
+		<div id="result-cards" class="result-grid"></div>
+	</section>
+</section>
+
+<script>
+(function() {
+	const form = document.getElementById("collab-form");
+	const resultsShell = document.getElementById("results");
+	const resultCards = document.getElementById("result-cards");
+	const resultSummary = document.getElementById("result-summary");
+	const validationMessage = document.getElementById("validation-message");
+	const resetButton = document.getElementById("reset-form");
+
+	const opportunities = [
+		{
+			id: "afosr",
+			title: "Air Force Office of Scientific Research (AFOSR)",
+			description: "Multi-year grant opportunities for domestic and international research collaborations",
+			// commitment: "Best for moderate to deep engagement over a term",
+			link: "https://www.afrl.af.mil/AFOSR/",
+			tags: {
+				role: ["faculty", "gradstudent", "ugstudent"],
+				length: ["year", "both"],
+				location: ["ohio", "midatlantic", "midwest", "international"]
+			}
+		},
+        {
+			id: "afrl-scholars",
+			title: "AFRL Scholars",
+			description: "Summer internship program for U.S. high school, undergraduate, and graduate student",
+			link: "https://afrlscholars.usra.edu/scholarsprogram/",
+			tags: {
+				role: ["hsstudent", "ugstudent", "gradstudent"],
+				length: ["summer", "both"],
+				location: ["ohio", "midatlantic", "midwest","none"]
+			}
+		},
+		{
+			id: "dagsi",
+			title: "Defense Associated Graduate Student Innovators (DAGSI)",
+			description: "Research grant for graduate students at U.S. institutions for up to three years of funding (while program can support non-Ohio students, there is a strong preference for Ohio-based students given available cost-sharing resources)",
+			link: "https://www.soche.org/programs-and-services/employers/dagsi/",
+			tags: {
+				role: ["faculty", "gradstudent"],
+				length: ["year", "both"],
+				location: ["ohio", "midatlantic", "midwest", "none"]
+			}
+		},
+		{
+			id: "dod-hpcmp",
+			title: "Department of Defense (DoD) High Perforamance Computing Modernization Program (HPCMP)",
+			description: "10-week internship for students and faculty members at U.S. institutions to conduct research using DoD supercomputing resources",
+			link: "https://orise.orau.gov/hpcmp/index.html",
+			tags: {
+				role: ["faculty", "ugstudent", "gradstudent"],
+				length: ["summer", "both"],
+				location: ["ohio", "midatlantic", "midwest", "none"]
+			}
+		},
+		{
+			id: "legacy",
+			title: "Leadership Experience Growing Apprenticeships Committed to Youth (LEGACY) Apprenticeship and Jr. Apprentice Programs",
+			description: "Apprenticeships are for at least one summer and require at least one year's participation in a prior program (Jr. Apprenticeship requires one year of Craftsman Camp attendance and Apprentenceship requires one year of a Jr. Apprenticeship).",
+			// commitment: "Light-touch involvement with high flexibility",
+			link: "https://wpafbstem.com/LEGACY/legacy_overview.html#",
+			tags: {
+				role: ["ugstudent", "hsstudent"],
+				length: ["summer", "both"],
+				location: ["ohio", "midatlantic", "midwest", "none"]
+			}
+		},
+        {
+			id: "mid-atlantic-hub",
+			title: "AFRL Regional Network Mid-Atlantic Hub",
+			description: "Region-based network for advancing research toward commcercialization for partner universities and buinesses located in Connecticut, Delaware, District of Columbia, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Vermont, Virginia, or West Virginia",
+			// commitment: "Flexible cadence from monthly to biweekly",
+			link: "https://www.midatlantichub.afresearchlab.com/",
+			tags: {
+				role: ["faculty", "industry"],
+				length: ["year", "both"],
+				location: ["midatlantic"]
+			}
+		},
+        {
+			id: "midwest-hub",
+			title: "AFRL Regional Network Midwest Hub",
+			description: "Region-based network for advancing research toward commcercialization for partner universities and buinesses located in Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Ohio, North Dakota, South Dakota, or Wisconsin",
+			// commitment: "Flexible cadence from monthly to biweekly",
+			link: "https://midwesthub.afresearchlab.com/",
+			tags: {
+				role: ["faculty", "industry"],
+				length: ["year", "both"],
+				location: ["midwest"]
+            }
+		},
+        {
+			id: "sdip",
+			title: "Sensors Directorate Internship Program (SDIP)",
+			description: "Up to 14-week Internship program for undergraduate and graduate students located in Dayton, OH with project focused on multi-domain autonomous sensing and related research",
+			// commitment: "Flexible cadence from monthly to biweekly",
+			link: "https://udayton.edu/engineering/initiatives/sensors-directorate-internship-program.php",
+			tags: {
+				role: ["ugstudent", "gradstudent"],
+				length: ["summer", "both"],
+				location: ["ohio", "midatlantic", "midwest", "none"]
+			}
+		},
+        {
+			id: "smart",
+			title: "Science, Mathematics, and Research for Transformation (SMART) Scholarship-for-Service Program",
+			description: "Scholarship and internship program for undergraduate and graduate students; while I cannot advocate for award selection, if already selected for a SMART scholarship, there is an opportunity for mentor-mentee pairing for internships",
+			// commitment: "Flexible cadence from monthly to biweekly",
+			link: "https://www.smartscholarship.org/smart/en",
+			tags: {
+				role: ["ugstudent", "gradstudent"],
+				length: ["summer", "year","both"],
+				location: ["ohio", "midatlantic", "midwest", "none"]
+			}
+		},
+        {
+			id: "sffp",
+			title: "Summer Faculty Fellowship Program (SFFP)",
+			description: "NOTE: PROGRAM IS CURRENTLY ON PAUSE. U.S. university professors conducts research at an Air Force research facility for a 8-12 weeks in the summer",
+			// commitment: "Flexible cadence from monthly to biweekly",
+			link: "https://www.afrl.af.mil/About-Us/Fact-Sheets/Fact-Sheet-Display/Article/2282123/afosr-funding-opportunities-educational-programs#anchor6",
+			tags: {
+				role: ["faculty"],
+				length: ["summer", "both"],
+				location: ["ohio", "midatlantic", "midwest", "none"]
+			}
+		},
+        {
+			id: "wright-scholars",
+			title: "Wright Scholars Research Assistant Program",
+			description: "Program to support high school juniors and seniors interested in STEM fields; while new applicants must be in high school to apply, there are opportunities for mentor-mentee pairings for current college participants",
+			// commitment: "Flexible cadence from monthly to biweekly",
+			link: "https://wpafbstem.com/Wright_Scholar/Wright_scholar.html#",
+			tags: {
+				role: ["hsstudent", "ugstudent"],
+				length: ["summer", "both"],
+				location: ["ohio", "midatlantic", "midwest", "none"]
+			}
+		}
+	];
+
+	function getAnswer(name) {
+		const selected = form.querySelector("input[name='" + name + "']:checked");
+		return selected ? selected.value : null;
+	}
+
+	function getCheckedValues(name) {
+		return Array.from(form.querySelectorAll("input[name='" + name + "']:checked")).map(function(input) {
+			return input.value;
+		});
+	}
+
+	function getAnswers() {
+		return {
+			role: getAnswer("role"),
+			length: getAnswer("length"),
+			location: getCheckedValues("location")
+		};
+	}
+
+	function scoreOpportunity(opportunity, answers) {
+		let score = 0;
+		const dimensions = ["role", "length", "location"];
+
+		dimensions.forEach(function(dimension) {
+			const matches = opportunity.tags[dimension];
+			const answerValue = answers[dimension];
+			const hasMatch = Array.isArray(answerValue)
+				? answerValue.some(function(value) { return matches.indexOf(value) !== -1; })
+				: !!answerValue && matches.indexOf(answerValue) !== -1;
+
+			if (hasMatch) {
+				score += dimension === "role" ? 4 : 3;
+			}
+		});
+
+		return score;
+	}
+
+	function buildCards(scoredList) {
+		resultCards.innerHTML = "";
+		scoredList.forEach(function(item) {
+			const card = document.createElement("article");
+			card.className = "opportunity-card " + (item.isApplicable ? "applicable" : "not-applicable");
+
+			const opportunityLink = item.data.link || "#";
+			const buttonLabel = item.data.link ? "Open Opportunity" : "Link Coming Soon";
+			const buttonClass = item.data.link ? "btn btn-sm btn-outline-primary" : "btn btn-sm btn-outline-primary disabled";
+
+			card.innerHTML = ""
+				+ "<h3>" + item.data.title + "</h3>"
+				+ "<p>" + item.data.description + "</p>"
+				+ "<a class='" + buttonClass + "' href='" + opportunityLink + "' target='_blank' rel='noopener noreferrer'>" + buttonLabel + "</a>";
+
+			resultCards.appendChild(card);
+		});
+	}
+
+	function isApplicable(opportunity, answers, score) {
+		const selectedLocations = answers.location || [];
+		if (selectedLocations.indexOf("international") !== -1) {
+			return opportunity.id === "afosr";
+		}
+
+		const roleMatch = opportunity.tags.role.indexOf(answers.role) !== -1;
+		return roleMatch && score >= 7;
+	}
+
+	function findMissingQuestion(answers) {
+		const keys = Object.keys(answers);
+		for (let i = 0; i < keys.length; i += 1) {
+			const key = keys[i];
+			if (!answers[key] || (Array.isArray(answers[key]) && answers[key].length === 0)) {
+				return key;
+			}
+		}
+		return null;
+	}
+
+	form.addEventListener("submit", function(event) {
+		event.preventDefault();
+		const answers = getAnswers();
+		const missing = findMissingQuestion(answers);
+
+		if (missing) {
+			validationMessage.textContent = "Please answer all questions to view your opportunities.";
+			const firstMissing = form.querySelector("fieldset[data-question='" + missing + "']");
+			if (firstMissing) {
+				firstMissing.scrollIntoView({ behavior: "smooth", block: "center" });
+			}
+			return;
+		}
+
+		validationMessage.textContent = "";
+
+		const ranked = opportunities
+			.map(function(opportunity) {
+				const score = scoreOpportunity(opportunity, answers);
+				return {
+					data: opportunity,
+					score: score,
+					isApplicable: isApplicable(opportunity, answers, score)
+				};
+			})
+			.sort(function(a, b) {
+				if (a.isApplicable === b.isApplicable) {
+					return b.score - a.score;
+				}
+				return a.isApplicable ? -1 : 1;
+			});
+
+		buildCards(ranked);
+		const applicableCount = ranked.filter(function(item) { return item.isApplicable; }).length;
+		resultSummary.textContent = "All " + applicableCount + " qualifying opportunities are shown in purple, while the remaining in gray are likely not applicable. However, I strongly recommend reviewing all elgibility requirements prior to making a decision to apply for or disregard an oppportunity.";
+		resultsShell.hidden = false;
+		resultsShell.scrollIntoView({ behavior: "smooth", block: "start" });
+	});
+
+	resetButton.addEventListener("click", function() {
+		form.reset();
+		resultsShell.hidden = true;
+		validationMessage.textContent = "";
+	});
+})();
+</script>
+```

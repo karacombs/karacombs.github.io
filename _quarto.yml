@@ -23,6 +23,8 @@ website:
         href: mentees.qmd
       - text: Features
         href: features.qmd
+      - text: Collaboration Opportunities
+        href: collaboration.qmd
     right:
       - icon: linkedin
         href: https://www.linkedin.com/in/karacombs33
