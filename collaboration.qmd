@@ -280,7 +280,7 @@ Interested in collaborating? Use the tool below to receive a personalized set of
 
 		<div class="action-row">
 			<button type="submit" class="btn btn-primary">Show My Opportunities</button>
-			<button type="button" id="reset-form" class="btn btn-outline-secondary">Start Over</button>
+			<button type="button" id="reset-form" class="btn btn-outline-secondary" hidden>Start Over</button>
 		</div>
 		<p class="helper-text" id="validation-message" aria-live="polite"></p>
 	</form>
@@ -587,12 +587,14 @@ Interested in collaborating? Use the tool below to receive a personalized set of
 		const applicableCount = ranked.filter(function(item) { return item.isApplicable; }).length;
 		resultSummary.textContent = "All " + applicableCount + " qualifying opportunities are shown in purple, while the remaining in gray are likely not applicable. However, I strongly recommend reviewing all elgibility requirements prior to making a decision to apply for or disregard an oppportunity.";
 		resultsShell.hidden = false;
+		resetButton.hidden = false;
 		resultsShell.scrollIntoView({ behavior: "smooth", block: "start" });
 	});
 
 	resetButton.addEventListener("click", function() {
 		form.reset();
 		resultsShell.hidden = true;
+		resetButton.hidden = true;
 		validationMessage.textContent = "";
 	});
 })();
