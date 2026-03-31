@@ -131,6 +131,38 @@ Interested in collaborating? Use the tool below to receive a personalized set of
 	margin: 0.2rem 0 0.45rem;
 }
 
+.opportunity-tag-row {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.35rem;
+	margin-bottom: 0.45rem;
+}
+
+.opportunity-tag {
+	display: inline-flex;
+	align-items: center;
+	padding: 0.2rem 0.5rem;
+	border-radius: 999px;
+	font-size: 0.75rem;
+	font-weight: 600;
+	letter-spacing: 0.01em;
+	background: #e8eef9;
+	color: #30415a;
+	border: 1px solid #cfdbef;
+}
+
+.opportunity-card.applicable .opportunity-tag {
+	background: #ede6ff;
+	color: #4e2f8d;
+	border-color: #d4c5fb;
+}
+
+.opportunity-card.not-applicable .opportunity-tag {
+	background: #e8eaee;
+	color: #516174;
+	border-color: #d2d8e0;
+}
+
 .opportunity-card p {
 	color: #46576d;
 	margin-bottom: 0.6rem;
@@ -268,6 +300,14 @@ Interested in collaborating? Use the tool below to receive a personalized set of
 	const resultSummary = document.getElementById("result-summary");
 	const validationMessage = document.getElementById("validation-message");
 	const resetButton = document.getElementById("reset-form");
+	const ROLE_LABELS = {
+		faculty: "Faculty",
+		gradstudent: "Graduate Student",
+		ugstudent: "Undergraduate Student",
+		hsstudent: "High School Student",
+		industry: "Industry"
+	};
+	const INTERNSHIP_IDS = ["afrl-scholars", "dod-hpcmp", "legacy", "sdip", "smart", "wright-scholars"];
 
 	const opportunities = [
 		{
@@ -378,7 +418,7 @@ Interested in collaborating? Use the tool below to receive a personalized set of
         {
 			id: "sffp",
 			title: "Summer Faculty Fellowship Program (SFFP)",
-			description: "NOTE: PROGRAM IS CURRENTLY ON PAUSE. U.S. university professors conducts research at an Air Force research facility for a 8-12 weeks in the summer",
+			description: "NOTE: PROGRAM IS CURRENTLY ON PAUSE. <br> U.S. university professors conducts research at an Air Force research facility for a 8-12 weeks in the summer",
 			// commitment: "Flexible cadence from monthly to biweekly",
 			link: "https://www.afrl.af.mil/About-Us/Fact-Sheets/Fact-Sheet-Display/Article/2282123/afosr-funding-opportunities-educational-programs#anchor6",
 			tags: {
@@ -448,14 +488,38 @@ Interested in collaborating? Use the tool below to receive a personalized set of
 			const opportunityLink = item.data.link || "#";
 			const buttonLabel = item.data.link ? "Open Opportunity" : "Link Coming Soon";
 			const buttonClass = item.data.link ? "btn btn-sm btn-outline-primary" : "btn btn-sm btn-outline-primary disabled";
+			const tagHtml = getCardTagLabels(item).map(function(tag) {
+				return "<span class='opportunity-tag'>" + tag + "</span>";
+			}).join("");
 
 			card.innerHTML = ""
+				+ "<div class='opportunity-tag-row'>" + tagHtml + "</div>"
 				+ "<h3>" + item.data.title + "</h3>"
 				+ "<p>" + item.data.description + "</p>"
 				+ "<a class='" + buttonClass + "' href='" + opportunityLink + "' target='_blank' rel='noopener noreferrer'>" + buttonLabel + "</a>";
 
 			resultCards.appendChild(card);
 		});
+	}
+
+	function getCardTagLabels(item) {
+		const labels = [];
+
+		(item.data.tags.role || []).forEach(function(role) {
+			if (ROLE_LABELS[role] && labels.indexOf(ROLE_LABELS[role]) === -1) {
+				labels.push(ROLE_LABELS[role]);
+			}
+		});
+
+		if (INTERNSHIP_IDS.indexOf(item.data.id) !== -1) {
+			labels.push("Internship");
+		}
+
+		if (labels.length === 0) {
+			labels.push("Opportunity");
+		}
+
+		return labels;
 	}
 
 	function isApplicable(opportunity, answers, score) {
@@ -498,10 +562,18 @@ Interested in collaborating? Use the tool below to receive a personalized set of
 		const ranked = opportunities
 			.map(function(opportunity) {
 				const score = scoreOpportunity(opportunity, answers);
+				const roleMatched = opportunity.tags.role.indexOf(answers.role) !== -1;
+				const lengthMatched = opportunity.tags.length.indexOf(answers.length) !== -1;
+				const locationMatched = answers.location.some(function(value) {
+					return opportunity.tags.location.indexOf(value) !== -1;
+				});
 				return {
 					data: opportunity,
 					score: score,
-					isApplicable: isApplicable(opportunity, answers, score)
+					isApplicable: isApplicable(opportunity, answers, score),
+					roleMatched: roleMatched,
+					lengthMatched: lengthMatched,
+					locationMatched: locationMatched
 				};
 			})
 			.sort(function(a, b) {
