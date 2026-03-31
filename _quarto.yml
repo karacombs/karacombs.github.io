@@ -44,6 +44,8 @@ format:
   html:
     theme:
       - pulse
+      # light: pulse
+      # dark: pulse
     toc: true
     toc-depth: 3
     number-sections: false

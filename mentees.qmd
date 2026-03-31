@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
-I enjoy working with students of all ages and make an effort to mentor the next generation each year. I have served as a mentor for 7 students across 8 projects through 4 programs ([DAGSI](https://www.soche.org/programs-and-services/employers/dagsi/), [LEGACY](https://wpafbstem.com/LEGACY/legacy_overview.html), [SMART](https://www.smartscholarship.org/smart/en), [Wright Scholar](https://wpafbstem.com/Wright_Scholar/Wright_scholar.html)).
+I enjoy working with students of all ages and make an effort to mentor the next generation each year. I have served as a mentor for eight students across four programs ([DAGSI](https://www.soche.org/programs-and-services/employers/dagsi/), [LEGACY](https://wpafbstem.com/LEGACY/legacy_overview.html), [SMART](https://www.smartscholarship.org/smart/en), [Wright Scholar](https://wpafbstem.com/Wright_Scholar/Wright_scholar.html)).
 
 ## Mentee Highlights
 
@@ -268,6 +268,12 @@ setInterval(() => {plusMentoringSlides(1);}, 8000);
   <summary><strong>Addam Jensen</strong>, <em>M.S. in computer science and engineering from Ohio State University (2026)</em></summary>
   <ul>
     <li> 2025 - 2026 Project: Reinforcement learning with analogical transfer </li>
+  </ul>
+</details>
+<details>
+  <summary><strong>Derrick Cox</strong>, <em>Ph.D. in computer science from Wright State University (2026)</em></summary>
+  <ul>
+    <li> 2024 - 2026 Project: Event sequence learning from textual scenario </li>
   </ul>
 </details>
 
