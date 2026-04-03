@@ -127,7 +127,7 @@ I enjoy working with students of all ages and make an effort to mentor the next 
       <div class="slide-text" style="flex: 1; padding-left: 20px; display: flex; flex-direction: column; justify-content: center;">
         <h4 style="color: #553590; margin-bottom: 15px;">Derick Cox</h4>
         <h6 margin-bottom: 15px;"><em>DAGSI Fellow 2024 - 2026</em></h6>
-        <p>Pursuing Ph.D. in computer science at Wright State University</p>
+        <p>Project incorporated into 2026 NARST presentation</p>
       </div>
     </div>
   </div>
