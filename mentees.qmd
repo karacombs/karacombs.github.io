@@ -119,7 +119,7 @@ I enjoy working with students of all ages and make an effort to mentor the next 
     </div>
   </div>
 
-    <div class="mentoring-slide fade active">
+  <div class="mentoring-slide fade active">
     <div class="slide-content" style="display: flex; align-items: center; justify-content: center; padding: 20px 70px; min-height: 300px;">
       <div class="slide-image" style="flex: 0 0 40%; margin-right: 30px;">
         <img src="assets/mentees/DerrickCox.png" style="width: 100%; height: 250px; object-fit: cover; object-position: center 30%; border-radius: 8px;">
@@ -128,6 +128,19 @@ I enjoy working with students of all ages and make an effort to mentor the next 
         <h4 style="color: #553590; margin-bottom: 15px;">Derick Cox</h4>
         <h6 margin-bottom: 15px;"><em>DAGSI Fellow 2024 - 2026</em></h6>
         <p>Project incorporated into 2026 NARST presentation</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="mentoring-slide fade active">
+    <div class="slide-content" style="display: flex; align-items: center; justify-content: center; padding: 20px 70px; min-height: 300px;">
+      <div class="slide-image" style="flex: 0 0 40%; margin-right: 30px;">
+        <img src="assets/mentees/JamesPennington.jpeg" style="width: 100%; height: 250px; object-fit: cover; object-position: center 30%; border-radius: 8px;">
+      </div>
+      <div class="slide-text" style="flex: 1; padding-left: 20px; display: flex; flex-direction: column; justify-content: center;">
+        <h4 style="color: #553590; margin-bottom: 15px;">James Pennington</h4>
+        <h6 margin-bottom: 15px;"><em>DAGSI Fellow 2025 - 2028</em></h6>
+        <p>Pursuing Ph.D. in computer science at Ohio University</p>
       </div>
     </div>
   </div>
@@ -272,19 +285,19 @@ setInterval(() => {plusMentoringSlides(1);}, 8000);
 ## Defense Associated Graduate Student Innovators (DAGSI) Fellows
 
 <details>
-  <summary><strong>James Pennington</strong>, <em>Ph.D. in computer science from Ohio University (2027)</em></summary>
+  <summary><strong>James Pennington</strong>, <em>Ph.D. in computer science at Ohio University (2027)</em></summary>
   <ul>
     <li> 2025 - 2027 Project: Advanced multi-platform and multi-source fusion </li>
   </ul>
 </details>
 <details>
-  <summary><strong>Addam Jensen</strong>, <em>M.S. in computer science and engineering from Ohio State University (2026)</em></summary>
+  <summary><strong>Addam Jensen</strong>, <em>M.S. in computer science and engineering at Ohio State University (2026)</em></summary>
   <ul>
     <li> 2025 - 2026 Project: Reinforcement learning with analogical transfer </li>
   </ul>
 </details>
 <details>
-  <summary><strong>Derrick Cox</strong>, <em>Ph.D. in computer science from Wright State University (2026)</em></summary>
+  <summary><strong>Derrick Cox</strong>, <em>Ph.D. in computer science at Wright State University (2026)</em></summary>
   <ul>
     <li> 2024 - 2026 Project: Event sequence learning from textual scenario </li>
   </ul>
@@ -292,7 +305,7 @@ setInterval(() => {plusMentoringSlides(1);}, 8000);
 
 ## Leadership Experience Growing Apprenticeships Committed to Youth (LEGACY) Program
 <details>
-  <summary><strong>Isaiah Goble</strong>, <em>B.S. in computer engineering from TBD (2030) </em></summary>
+  <summary><strong>Isaiah Goble</strong>, <em>B.S. in computer engineering at TBD (2030) </em></summary>
   <ul>
     <li> 2025 Project: Development of machine-interpretable knowledge graph datasets from analogies </li>
     <li> 2024 Project: Evaluation and comparison of large language models’ analogical reasoning abilities (incorporated into [IEEE Transactions on Cognitive and Developmental Systems Paper](https://doi.org/10.1109/TCDS.2025.3559771)) </li>
