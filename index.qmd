@@ -8,26 +8,30 @@ toc: false
 
 ::: {.g-col-12 .g-col-md-4 style="max-width: 450px;"}
 ![](assets/Combs_Headshot_White.jpg){fig-alt="Kara Combs" width="75%" style="border-radius: 16px;"}
-
-<a
-id="cy-effective-orcid-url"
-class="underline"
-  href="https://orcid.org/0000-0002-6313-8563"
-  target="orcid.widget"
-  rel="me noopener noreferrer"
-  style="vertical-align: top">
-  <img
-    src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-    style="width: 1em; margin-inline-start: 0.5em"
-    alt="ORCID iD icon"/>
-  0000-0002-6313-8563
-</a>
 :::
 
 ::: {.g-col-12 .g-col-md-8}
 ## Hi! I'm Kara Combs!
 
 I am a computer engineer at the Air Force Research Laboratory. I hold a Ph.D. in operations research, a M.S. in industrial and human factors engineering, and a B.S. in industrial and systems engineering. My research focuses on enhancing defense applications of artificial intelligence and machine learning (AI/ML) through biologically-inspired mechanisms based on analogical reasoning, neuroscience, and more! I have 20+ peer-reviewed publications and have presented my work at 30+ conferences. I am active in several professional societies and K-12 STEM outreach events.
+
+<div style="text-align: center; margin: 0px 0 5px 0;">
+  <a href="https://scholar.google.com/citations?user=TOV6TicAAAAJ&hl=en" class="btn btn-primary" target="_blank" style="border-radius: 24px; padding: 10px 24px;">
+    Google Scholar
+  </a>
+  <a href="https://orcid.org/0000-0002-6313-8563" class="btn btn-primary" target="_blank" style="border-radius: 24px; padding: 10px 24px;">
+    ORCiD
+  </a>
+  <a href="https://www.webofscience.com/wos/author/record/AED-9815-2022" class="btn btn-primary" target="_blank" style="border-radius: 24px; padding: 10px 24px;">
+    Web of Science
+  </a>
+  <!-- <a href="https://ieeexplore.ieee.org/author/959146478792938" class="btn btn-primary" target="_blank" style="border-radius: 24px; padding: 10px 24px;">
+    IEEE Explore
+  </a> -->
+  <a href="https://dblp.org/pid/319/9191.html" class="btn btn-primary" target="_blank" style="border-radius: 24px; padding: 10px 24px;">
+    DBLP
+  </a>
+</div>
 :::
 
 :::
