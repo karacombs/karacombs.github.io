@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
-I enjoy working with students of all ages and make an effort to mentor the next generation each year. I have served as a mentor for eight students across four programs ([DAGSI](https://www.soche.org/programs-and-services/employers/dagsi/), [LEGACY](https://wpafbstem.com/LEGACY/legacy_overview.html), [SMART](https://www.smartscholarship.org/smart/en), [Wright Scholar](https://wpafbstem.com/Wright_Scholar/Wright_scholar.html)).
+I enjoy working with students of all ages and make an effort to mentor the next generation each year. I have served as a mentor for eleven students across four programs ([DAGSI](https://www.soche.org/programs-and-services/employers/dagsi/), [LEGACY](https://wpafbstem.com/LEGACY/legacy_overview.html), [SMART](https://www.smartscholarship.org/smart/en), [Wright Scholar](https://wpafbstem.com/Wright_Scholar/Wright_scholar.html)).
 
 ## Mentee Highlights
 
@@ -285,6 +285,24 @@ setInterval(() => {plusMentoringSlides(1);}, 8000);
 ## Defense Associated Graduate Student Innovators (DAGSI) Fellows
 
 <details>
+  <summary><strong>Carson Bartholic</strong>, <em>Ph.D. in computer science at Ohio University (2030)</em></summary>
+  <ul>
+    <li> 2026 - 2030 Project: Uncrewed aerial vehicles (UAV) detection using neuromorphic solutions  </li>
+  </ul>
+</details>
+<details>
+  <summary><strong>Davin Dillon</strong>, <em>Ph.D. in computer science at Ohio University (2029)</em></summary>
+  <ul>
+    <li> 2026 - 2030 Project: Reinforcement learning guided by analogical graph neural networks (GNNs) </li>
+  </ul>
+</details>
+<details>
+  <summary><strong>Zachary Sensel</strong>, <em>M.S. in electrical engineering at Wright State University (2028)</em></summary>
+  <ul>
+    <li> 2026 - 2028 Project: Situationally Aware, Intent-based Sensor Fusion and Generative AI </li>
+  </ul>
+</details>
+<details>
   <summary><strong>James Pennington</strong>, <em>Ph.D. in computer science at Ohio University (2027)</em></summary>
   <ul>
     <li> 2025 - 2027 Project: Advanced multi-platform and multi-source fusion </li>
@@ -299,22 +317,22 @@ setInterval(() => {plusMentoringSlides(1);}, 8000);
 <details>
   <summary><strong>Derrick Cox</strong>, <em>Ph.D. in computer science at Wright State University (2026)</em></summary>
   <ul>
-    <li> 2024 - 2026 Project: Event sequence learning from textual scenario </li>
+    <li> 2024 - 2026 Project: Event sequence learning from textual scenario</li>
   </ul>
 </details>
 
 ## Leadership Experience Growing Apprenticeships Committed to Youth (LEGACY) Program
 <details>
-  <summary><strong>Isaiah Goble</strong>, <em>B.S. in computer engineering at TBD (2030) </em></summary>
+  <summary><strong>Isaiah Goble</strong>, <em>B.S. in computer engineering at Bowling Green State University (2030) </em></summary>
   <ul>
-    <li> 2025 Project: Development of machine-interpretable knowledge graph datasets from analogies </li>
-    <li> 2024 Project: Evaluation and comparison of large language models’ analogical reasoning abilities (incorporated into [IEEE Transactions on Cognitive and Developmental Systems Paper](https://doi.org/10.1109/TCDS.2025.3559771)) </li>
+    <li> 2025 Project: Development of machine-interpretable knowledge graph datasets from analogies (incorporated into ISER paper, in review)</li>
+    <li> 2024 Project: Evaluation and comparison of large language models’ analogical reasoning abilities (incorporated into [IEEE TCDS Paper](https://doi.org/10.1109/TCDS.2025.3559771)) </li>
   </ul>
 </details>
 
 ## Science, Mathematics and Research for Transformation (SMART) Scholars 
 
-Mentees are assigned to a mentor throughout their degree while summer interns are assigned to a mentor for their summer project.
+Mentees are assigned to a mentor throughout their degree while summer interns are assigned to a mentor for a 8-12 week project during the summer.
 
 ### Mentee(s)
 <strong style="color: #553590;">Olivia Ben Aoumeur</strong>, <em style="color: #553590;">Ph.D. in information science at the University of Albany (SUNY) (2029)</em>
