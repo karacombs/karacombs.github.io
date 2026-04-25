@@ -299,7 +299,7 @@ setInterval(() => {plusMentoringSlides(1);}, 8000);
 <details>
   <summary><strong>Zachary Sensel</strong>, <em>M.S. in electrical engineering at Wright State University (2028)</em></summary>
   <ul>
-    <li> 2026 - 2028 Project: Situationally Aware, Intent-based Sensor Fusion and Generative AI </li>
+    <li> 2026 - 2028 Project: Situationally aware, intent-based sensor fusion and generative AI </li>
   </ul>
 </details>
 <details>
@@ -317,7 +317,7 @@ setInterval(() => {plusMentoringSlides(1);}, 8000);
 <details>
   <summary><strong>Derrick Cox</strong>, <em>Ph.D. in computer science at Wright State University (2026)</em></summary>
   <ul>
-    <li> 2024 - 2026 Project: Event sequence learning from textual scenario</li>
+    <li> 2024 - 2026 Project: Event sequence learning from textual scenarios</li>
   </ul>
 </details>
 
@@ -341,7 +341,7 @@ Mentees are assigned to a mentor throughout their degree while summer interns ar
 <details>
   <summary><strong>Jacqueline Liu</strong>, <em>Ph.D. in computer science at Binghamton University (SUNY) (2027)</em></summary>
   <ul>
-    <li> 2025 Project: Efficient Hyperspectral Data Processing on the Edge: Band Selection with Mamba Models </li>
+    <li> 2025 Project: Efficient Hyperspectral Data Processing on the Edge: Band Selection with Mamba Models (incorporated into IEEE JSTARS paper, in review)</li>
   </ul>
 </details>
 
