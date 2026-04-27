@@ -243,13 +243,13 @@ Interested in collaborating? Use the tool below to receive a personalized set of
 		</fieldset>
 
 		<fieldset class="question-group" data-question="length">
-			<legend>2. Are you interested in a summer, year-around opportunity, or both?</legend>
+			<legend>2. Are you interested in a summer-only, year-around (and/or multi-year) opportunity, or both?</legend>
 			<div class="option-grid">
 				<div class="option-card">
 					<label><input type="radio" name="length" value="summer" required> Summer-only </label>
 				</div>
 				<div class="option-card">
-					<label><input type="radio" name="length" value="year"> Year-around</label>
+					<label><input type="radio" name="length" value="year"> Year-around/multi-year</label>
 				</div>
 				<div class="option-card">
 					<label><input type="radio" name="length" value="both"> Both</label>
@@ -300,6 +300,18 @@ Interested in collaborating? Use the tool below to receive a personalized set of
 	const resultSummary = document.getElementById("result-summary");
 	const validationMessage = document.getElementById("validation-message");
 	const resetButton = document.getElementById("reset-form");
+
+	// When Ohio is selected, also auto-select Midwest
+	(function bindOhioMidwest() {
+		const ohioCheckbox = form.querySelector("input[name='location'][value='ohio']");
+		const midwestCheckbox = form.querySelector("input[name='location'][value='midwest']");
+		if (!ohioCheckbox || !midwestCheckbox) return;
+		ohioCheckbox.addEventListener('change', function() {
+			if (ohioCheckbox.checked) {
+				midwestCheckbox.checked = true;
+			}
+		});
+	})();
 	const ROLE_LABELS = {
 		faculty: "Faculty",
 		gradstudent: "Graduate Student",
@@ -391,6 +403,18 @@ Interested in collaborating? Use the tool below to receive a personalized set of
 				location: ["midwest"]
             }
 		},
+		{
+			id: "ndseg",
+			title: "National Defense Science and Engineering Graduate (NDSEG) Fellowship",
+			description: "Scholarship for U.S. citizens, nationals, and dual citizens who have at least 3 years left in a Ph.D. program in a relevant field",
+			// commitment: "Flexible cadence from monthly to biweekly",
+			link: "https://ndseg.sysplus.com/",
+			tags: {
+				role: ["faculty", "gradstudent"],
+				length: ["year", "both"],
+				location: ["none"]
+            }
+		},
         {
 			id: "sdip",
 			title: "Sensors Directorate Internship Program (SDIP)",
@@ -418,7 +442,7 @@ Interested in collaborating? Use the tool below to receive a personalized set of
         {
 			id: "sffp",
 			title: "Summer Faculty Fellowship Program (SFFP)",
-			description: "NOTE: PROGRAM IS CURRENTLY ON PAUSE. <br> U.S. university professors conducts research at an Air Force research facility for a 8-12 weeks in the summer",
+			description: "NOTE: PROGRAM IS CURRENTLY ON PAUSE. <br><br> U.S. university professors conducts research at an Air Force research facility for a 8-12 weeks in the summer",
 			// commitment: "Flexible cadence from monthly to biweekly",
 			link: "https://www.afrl.af.mil/About-Us/Fact-Sheets/Fact-Sheet-Display/Article/2282123/afosr-funding-opportunities-educational-programs#anchor6",
 			tags: {
