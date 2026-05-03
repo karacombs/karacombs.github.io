@@ -42,6 +42,10 @@ I am a computer engineer at the Air Force Research Laboratory. I hold a Ph.D. in
 
 ::: {.timeline}
 
+**April 2026**
+
+- Appointed to the Editorial Review Board for *[Industrial and Systems Engineering Review](https://westpointpressjournals.westpoint.edu/index.php/iser/index)*
+
 **March 2026**
 
 - Graduated from the Air Force Institute of Technology with a Ph.D. in Operations Research
