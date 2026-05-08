@@ -54,12 +54,6 @@ I am a computer engineer at the Air Force Research Laboratory. I hold a Ph.D. in
 
 - Analogy2KG ("Analogy to Knowledge Graph") article published in *Knowledge-based Systems* journal (see [here](https://doi.org/10.1016/j.knosys.2026.115772))
 
-**February 2026**
-
-- [TechFest Dayton 2026](https://www.techfestdayton.com/) had over 2,500+ attendees, of which 1,500+ were K-12 students, check out over 50 exhibitors and presenters at the event over President's Day weekend (see 2 News WDTN feature [here](https://www.wdtn.com/news/techfest-stem-fair-with-80-activities-this-weekend/))
-
-- Nominated at the division-level for the 2025 Dr. Samuel M. Burka Memorial Award, the 2025 Lab Scientist of the Fourth Quarter, and the Veiled Director's Cup Team Award
-
 :::
 
 <div style="text-align: center; margin: 20px 0;">
@@ -103,6 +97,11 @@ I am a computer engineer at the Air Force Research Laboratory. I hold a Ph.D. in
   <div class="mySlides fade">
     <img src="assets/slideshow/TechFest2025.jpg" style="width:100%; height:300px; object-fit:contain; background:#fff;">
     <div class="caption">TechFest 2025 Steering Committee Members</div>
+  </div>
+
+  <div class="mySlides fade">
+    <img src="assets/slideshow/STEMtoSky2026.jpeg" style="width:100%; height:300px; object-fit:contain; background:#fff;">
+    <div class="caption">STEMtoSky 2026 Even at Madison Park Elementary (Trotwood, OH)</div>
   </div>
 
   <!-- Next/prev buttons -->
