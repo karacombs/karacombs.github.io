@@ -6,7 +6,7 @@ execute:
   echo: false
 ---
 
-Check out my publications and profiles below! The majority of my research concerns advancing artifical intelligence and machine learning (AI/ML) through analogical reasoning.
+Check out my publications and profiles below! The majority of my research concerns advancing artifical intelligence and machine learning (AI/ML) through analogical reasoning; however, I have also worked in passive sensing, spiking neural networks, optimization.
 
 <div style="text-align: center; margin: 0px 0 5px 0;">
   <a href="https://scholar.google.com/citations?user=TOV6TicAAAAJ&hl=en" class="btn btn-primary" target="_blank" style="border-radius: 24px; padding: 10px 24px;">
@@ -142,6 +142,7 @@ Non-Link: <span class="badge bg-primary">TEXT</span>
 ## 2026
 ::: {.2026}
 1. <span class="badge rounded-pill" style="background-color:transparent; border:1px solid #220025ff; color:#220025ff;"> Journal </span> **Combs, K.,** Champagne, L., Cox, B., Schubert Kabban, C., Bihl, T., & Lemming, G. Analogy2KG: An automatic pipeline for deriving knowledge graphs from long-text analogies. *Knowledge-based Systems, 341,* 115772. DOI: [10.1016/j.knosys.2026.115772](https://doi.org/10.1016/j.knosys.2026.115772).
+1. <span class="badge rounded-pill" style="background-color:transparent; border:1px solid #6a346fff; color:#6a346fff;"> Conference </span> ^\*^Cotti, L., Cominelli, M., Gringoli, F., Kaplan, L.M., Srivastava, M.B., Bihl, T., Blasch, E.P., **Combs., K.**, Brigham, D.O., & Cerutti, F. Passive Wi-Fi radars using variational auto-encoders: A principled approach. *Proceedings of the 2026 29th International Conference on Information Fusion (FUSION 2026), accepted.*
 1. <span class="badge rounded-pill" style="background-color:transparent; border:1px solid #6a346fff; color:#6a346fff;"> Conference </span> ^\*^Pagani, A., Cominelli, M., Han, L., Dong, G., Benini, S., Gringoli, F., Savardi, M., Srivastava, M.B., Bihl, T., Blasch, E.P., Brigham, D.O., **Combs., K.**, Kaplan., L.M., & Cerutti, F. Preliminary insights in Chronos data understanding and reconstruction. *Proceedings of the 2026 29th International Conference on Information Fusion (FUSION 2026), accepted.*
 1. <span class="badge rounded-pill" style="background-color:transparent; border:1px solid #6a346fff; color:#6a346fff;"> Conference </span> **Combs, K.**, Champagne, L., Cox, B., Schubert Kabban, C., Lemming, G., & Bihl, T. Statistical quantification of analogical correspondence in knowledge graphs. *IISE Annual Conference & Expo 2026, accepted*.
 1.  <span class="badge rounded-pill" style="background-color:transparent; border:1px solid #6a346fff; color:#6a346fff;"> Conference </span> **Combs, K.**, Champagne, L., Lemming, G., & Bihl, T.J. (2026). Evaluation of information extraction algorithms for preserving analogical semantics within knowledge graphs. *59th Hawaii International Conference on System Sciences,* Maui, USA, 1814-1823. Retrieved from [https://hdl.handle.net/10125/111611](https://hdl.handle.net/10125/111611). 
