@@ -93,6 +93,10 @@ page-layout: full
 ::: {.accordion-collapse .collapse .show #collapse2026 data-bs-parent="#newsAccordion"}
 ::: {.accordion-body}
 
+**May 2026**
+
+- Chaired the "Knowledge Graphs & Text Analytics" session, which included my presentation on "Statistical quantification of analogical correspondence in knowledge graphs," at the IISE Annual Conference & Expo 2026 in Arlington, TX
+
 **April 2026**
 
 - Appointed to the Editorial Review Board for *[Industrial and Systems Engineering Review](https://westpointpressjournals.westpoint.edu/index.php/iser/index)*

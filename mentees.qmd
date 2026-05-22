@@ -284,6 +284,8 @@ setInterval(() => {plusMentoringSlides(1);}, 8000);
 
 ## Defense Associated Graduate Student Innovators (DAGSI) Fellows
 
+DAGSI fellows are graduate students competitively selected to work with a mentor for 1-3 years on a research project related to their degree.
+
 <details>
   <summary><strong>Carson Bartholic</strong>, <em>Ph.D. in computer science at Ohio University (2030)</em></summary>
   <ul>
@@ -317,11 +319,14 @@ setInterval(() => {plusMentoringSlides(1);}, 8000);
 <details>
   <summary><strong>Derrick Cox</strong>, <em>Ph.D. in computer science at Wright State University (2026)</em></summary>
   <ul>
-    <li> 2024 - 2026 Project: Event sequence learning from textual scenarios</li>
+    <li> 2024 - 2026 Project: Event sequence learning from textual scenarios (incorporated into 2026 NARST presentation & IEEE TCSS paper, in review)</li>
   </ul>
 </details>
 
 ## Leadership Experience Growing Apprenticeships Committed to Youth (LEGACY) Program
+
+LEGACY interns are rising high school juniors/seniors or collegiate students who are paired with a mentor for a summer internship.
+
 <details>
   <summary><strong>Isaiah Goble</strong>, <em>B.S. in computer engineering at Bowling Green State University (2030) </em></summary>
   <ul>
@@ -339,13 +344,23 @@ Mentees are assigned to a mentor throughout their degree while summer interns ar
 
 ### Summer Intern(s)
 <details>
+  <summary><strong>Olivia Ben Aoumeur</strong>, <em>Ph.D. in information science at the University of Albany (SUNY) (2029)</em></summary>
+  <ul>
+    <li> 2026 Project: Characterization of the SAMPLE-R (SAMPLE by RAPTOR) dataset</li>
+  </ul>
+</details>
+<details>
   <summary><strong>Jacqueline Liu</strong>, <em>Ph.D. in computer science at Binghamton University (SUNY) (2027)</em></summary>
   <ul>
+    <li> 2026 Project: Development of real-world and synthetic HSI datasets for anomaly detection</li>
     <li> 2025 Project: Efficient Hyperspectral Data Processing on the Edge: Band Selection with Mamba Models (incorporated into IEEE JSTARS paper, in review)</li>
   </ul>
 </details>
 
 ## Wright Scholars Research Assistant Program
+
+Wright Scholars are high school juniors/seniors or collegiate freshmen/sophomores who are paired with a researcherer for a summer internship.
+
 <details>
   <summary><strong>Isaiah Christopherson</strong>, <em>B.S. electrical engineering at Miami University (OH) (2028)</em></summary>
   <ul>
