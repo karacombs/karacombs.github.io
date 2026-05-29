@@ -457,7 +457,7 @@ Name one of five Inno(vators) under 25 in the Dayton region in 2023
   </div>
 ```
 
-### TechFest Dayton 2023
+<!-- ### TechFest Dayton 2023
 TechFest Dayton 2023 is back in-person for the first time since the onset of the COVID-19 pandemic
 
 ```{=html}
@@ -477,7 +477,7 @@ TechFest Dayton 2023 is back in-person for the first time since the onset of the
       </a>
     </div>
   </div>
-```
+``` -->
 
 ## 2022
 
