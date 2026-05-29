@@ -253,20 +253,45 @@ format:
 }
 </style>
 ```
-See below for a collection of stories and spotlights featuring my work, my students’ successes, and the communities I contribute to
+See below for a collection of stories and spotlights featuring my work, my students’ successes, and the communities I have contributed to.
 
 ## 2026
+
+### Air University’s AFIT graduates 181 students, strengthens Joint Force through technical expertise
+
+The Air University’s Air Force Institute of Technology graduated 181 students during its March 2026 commencement ceremony, highlighting Air University’s role in developing technically advanced warfighters who can solve operational problems across the Joint Force.
+
+```{=html}
+<div class="features-carousel" data-carousel="carousel20">
+    <button class="carousel-nav prev" onclick="moveCarousel(-1, 'carousel20')">‹</button>
+    <button class="carousel-nav next" onclick="moveCarousel(1, 'carousel20')">›</button>
+
+    <div class="carousel-wrapper" id="carousel2">
+
+      <a href="https://www.aetc.af.mil/News/Article-Display/Article/4449123/air-universitys-afit-graduates-181-students-strengthens-joint-force-through-tec/" class="feature-card" target="_blank">
+        <div class="card-image has-img" style="background-color: white;">
+          <img src="https://media.defense.gov/2026/Mar/31/2003905435/-1/-1/0/260326-F-QL361-1135.JPG" alt="AFIT March 2026 Graduation photo" style="object-fit: cover;">
+        </div>
+        <div class="feature-card-content">
+          <div class="date">March 2026</div>
+          <div class="outlet">AETC News</div>
+        </div>
+      </a>
+
+    </div>
+  </div>
+```
 
 ### TechFest Dayton 2026
 
 TechFest Dayton 2026 was amazing with over 2,500 attendees across the two days; below is a news clip about the event on local news.
 
 ```{=html}
-<div class="features-carousel" data-carousel="carousel2">
-    <button class="carousel-nav prev" onclick="moveCarousel(-1, 'carousel2')">‹</button>
-    <button class="carousel-nav next" onclick="moveCarousel(1, 'carousel2')">›</button>
+<div class="features-carousel" data-carousel="carousel19">
+    <button class="carousel-nav prev" onclick="moveCarousel(-1, 'carousel19')">‹</button>
+    <button class="carousel-nav next" onclick="moveCarousel(1, 'carousel19')">›</button>
 
-    <div class="carousel-wrapper" id="carousel2">
+    <div class="carousel-wrapper" id="carousel19">
 
       <a href="https://www.wdtn.com/news/techfest-stem-fair-with-80-activities-this-weekend/" class="feature-card" target="_blank">
         <div class="card-image has-img" style="background-color: white;">
@@ -820,8 +845,9 @@ class Carousel {
   constructor(carouselId) {
     this.carouselId = carouselId;
     this.currentIndex = 0;
-    this.carousel = document.getElementById(carouselId);
     this.carouselContainer = document.querySelector(`[data-carousel="${carouselId}"]`);
+    // Try to find a wrapper by id first; if not found, fall back to the first .carousel-wrapper inside the container
+    this.carousel = document.getElementById(carouselId) || (this.carouselContainer ? this.carouselContainer.querySelector('.carousel-wrapper') : null);
     this.items = [];
     this.totalItems = 0;
     this.isDragging = false;
@@ -944,28 +970,26 @@ class Carousel {
     this.prevTranslate = translateX;
     this.carousel.style.transform = `translateX(${translateX}px)`;
     
-    // Update button states
+    // Update button visibility and states
     const prevBtn = this.carouselContainer.querySelector('.carousel-nav.prev');
     const nextBtn = this.carouselContainer.querySelector('.carousel-nav.next');
-    
-    if (prevBtn && nextBtn) {
-      // Check if all items fit in the current view OR if scrolling doesn't reveal new cards
-      const allItemsFit = this.totalItems <= itemsInView;
-      
-      if (allItemsFit) {
-        // Hide buttons completely if all items fit
-        prevBtn.style.display = 'none';
-        nextBtn.style.display = 'none';
+    const navButtons = this.carouselContainer.querySelectorAll('.carousel-nav');
+
+    // Determine if wrapper content fits within the container (no overflow)
+    const wrapper = this.carousel; // .carousel-wrapper
+    const containerWidth = this.carouselContainer.clientWidth;
+    const tolerance = 8; // small tolerance for rounding
+    const fits = wrapper.scrollWidth <= (containerWidth + tolerance) || this.totalItems <= itemsInView;
+
+    if (navButtons && navButtons.length) {
+      if (fits) {
+        // Hide nav entirely when everything fits
+        navButtons.forEach(btn => btn.style.display = 'none');
       } else {
-        // Show buttons and manage their states
-        prevBtn.style.display = 'block';
-        nextBtn.style.display = 'block';
-        
-        // Disable prev button if at the beginning
-        prevBtn.disabled = this.currentIndex === 0;
-        
-        // Disable next button if at the end
-        nextBtn.disabled = this.currentIndex >= maxIndex;
+        // Show nav and set enabled/disabled states
+        navButtons.forEach(btn => btn.style.display = '');
+        if (prevBtn) prevBtn.disabled = (this.currentIndex === 0);
+        if (nextBtn) nextBtn.disabled = (this.currentIndex >= maxIndex);
       }
     }
   }
