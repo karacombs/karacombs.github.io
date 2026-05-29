@@ -95,7 +95,7 @@ fig = px.bar(
 # Move legend inside the plot
 fig.update_layout(
   legend=dict(
-    x=0.98,  # Position from left (0-1)
+    x=0.02,  # Position from left (0-1)
     y=0.98,  # Position from bottom (0-1)
     xanchor='right',
     yanchor='top',
