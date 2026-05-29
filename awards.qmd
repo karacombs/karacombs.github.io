@@ -49,6 +49,17 @@ Below is a collection of awards and honors recieved in recognition of contributi
 
 ## 2026
 <details>
+  <summary><strong>Technical Achievement Award (Individual) forQuarter 1 of 2026</strong>, <em>AFRL Multi-domain Sensing Autonomy Division</em></summary>
+  <p>
+  Selected by second-level supervisor (Division Chief) for completing PhD dissertation six months ahead of schedule in support of analogical reasoning
+  </p>
+</details><details>
+  <summary><strong>STEM Advocate(s) of the Quarter for Quarter 1 of 2026</strong>, <em>AFRL Multi-domain Sensing Autonomy Division</em></summary>
+  <p>
+  The SMART scholar application review team was selected by their second-level supervisor (Division Chief) for their contribution to the FY26 cycle
+  </p>
+</details>
+<details>
   <summary><strong>Divison Nominee for the Veiled Director's Cup Team Award</strong>, <em>AFRL Sensors Directorate</em></summary>
   <p>
   Member of the Generating Adversarial Activity Models Automatically (GAAMA) team who was nominated by their second-level supervisor (Division Chief) for an AFRL product for a warfighter for classified operational use

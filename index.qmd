@@ -44,6 +44,10 @@ I am a computer engineer at the Air Force Research Laboratory. I hold a Ph.D. in
 
 **May 2026**
 
+- Selected by second-level supervisor (Division Chief) for the STEM Advocate(s) of the Quarter (as part of the SMART Scholarship Application review team) and Technical Achievement (Individual) for the First Quarter of 2026
+
+- Paper on "A comparison of machine-generated narrative knowledge graphs against human interpretation" accepted for publication in *[Industrial and Systems Engineering Review](https://westpointpressjournals.westpoint.edu/index.php/iser/index)*, on which high school LEGACY Scholar, Isaiah Goble, is the first author
+
 - Chaired the "Knowledge Graphs & Text Analytics" session, which included my presentation on "Statistical quantification of analogical correspondence in knowledge graphs," at the IISE Annual Conference & Expo 2026 in Arlington, TX
 
 **April 2026**

@@ -330,7 +330,7 @@ LEGACY interns are rising high school juniors/seniors or collegiate students who
 <details>
   <summary><strong>Isaiah Goble</strong>, <em>B.S. in computer engineering at Bowling Green State University (2030) </em></summary>
   <ul>
-    <li> 2025 Project: Development of machine-interpretable knowledge graph datasets from analogies (incorporated into ISER paper, in review)</li>
+    <li> 2025 Project: Development of machine-interpretable knowledge graph datasets from analogies (incorporated into ISER paper, accepted)</li>
     <li> 2024 Project: Evaluation and comparison of large language models’ analogical reasoning abilities (incorporated into [IEEE TCDS Paper](https://doi.org/10.1109/TCDS.2025.3559771)) </li>
   </ul>
 </details>
