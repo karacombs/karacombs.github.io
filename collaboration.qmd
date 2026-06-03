@@ -236,9 +236,9 @@ Interested in collaborating? Use the tool below to receive a personalized set of
                 <div class="option-card">
 					<label><input type="radio" name="role" value="hsstudent"> High school student (at least 16-years-old) </label>
 				</div>
-				<div class="option-card">
+				<!-- <div class="option-card">
 					<label><input type="radio" name="role" value="industry"> Industry or small business leader </label>
-				</div>
+				</div> -->
 			</div>
 		</fieldset>
 
@@ -262,12 +262,6 @@ Interested in collaborating? Use the tool below to receive a personalized set of
 			<div class="option-grid">
                 <div class="option-card">
 					<label><input type="checkbox" name="location" value="ohio" required> Ohio </label>
-				</div>
-				<div class="option-card">
-					<label><input type="checkbox" name="location" value="midatlantic" required> Mid-Atlantic as defined as Connecticut, Delaware, District of Columbia, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Vermont, Virginia, or West Virginia </label>
-				</div>
-				<div class="option-card">
-					<label><input type="checkbox" name="location" value="midwest"> Midwest as defined as Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Ohio, North Dakota, South Dakota, or Wisconsin </label>
 				</div>
 				<div class="option-card">
 					<label><input type="checkbox" name="location" value="international"> Non-U.S. country </label>
@@ -378,30 +372,6 @@ Interested in collaborating? Use the tool below to receive a personalized set of
 				length: ["summer", "both"],
 				location: ["ohio", "midatlantic", "midwest", "none"]
 			}
-		},
-        {
-			id: "mid-atlantic-hub",
-			title: "AFRL Regional Network Mid-Atlantic Hub",
-			description: "Region-based network for advancing research toward commcercialization for partner universities and buinesses located in Connecticut, Delaware, District of Columbia, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Vermont, Virginia, or West Virginia",
-			// commitment: "Flexible cadence from monthly to biweekly",
-			link: "https://www.midatlantichub.afresearchlab.com/",
-			tags: {
-				role: ["faculty", "industry"],
-				length: ["year", "both"],
-				location: ["midatlantic"]
-			}
-		},
-        {
-			id: "midwest-hub",
-			title: "AFRL Regional Network Midwest Hub",
-			description: "Region-based network for advancing research toward commcercialization for partner universities and buinesses located in Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Ohio, North Dakota, South Dakota, or Wisconsin",
-			// commitment: "Flexible cadence from monthly to biweekly",
-			link: "https://midwesthub.afresearchlab.com/",
-			tags: {
-				role: ["faculty", "industry"],
-				length: ["year", "both"],
-				location: ["midwest"]
-            }
 		},
 		{
 			id: "ndseg",
