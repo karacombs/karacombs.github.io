@@ -93,6 +93,10 @@ page-layout: full
 ::: {.accordion-collapse .collapse .show #collapse2026 data-bs-parent="#newsAccordion"}
 ::: {.accordion-body}
 
+**June 2026**
+
+- Presented "AutoDRAMA: A graph-based approach to relational similarity and analogical mapping" at the 2026 Military Operations Research Society (MORS) Symposium in Colorado Springs, CO
+
 **May 2026**
 
 - Selected by second-level supervisor (Division Chief) for the STEM Advocate(s) of the Quarter (as part of the SMART Scholarship Application review team) and Technical Achievement (Individual) for the First Quarter of 2026
