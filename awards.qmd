@@ -49,12 +49,12 @@ Below is a collection of awards and honors recieved in recognition of contributi
 
 ## 2026
 <details>
-  <summary><strong>Technical Achievement Award (Individual) for Quarter 1 of 2026</strong>, <em>AFRL Multi-domain Sensing Autonomy Division</em></summary>
+  <summary><strong>2026Q1 Technical Achievement Award (Individual)</strong>, <em>AFRL Multi-domain Sensing Autonomy Division</em></summary>
   <p>
   Selected by second-level supervisor (Division Chief) for completing PhD dissertation six months ahead of schedule in support of analogical reasoning
   </p>
 </details><details>
-  <summary><strong>STEM Advocate(s) of the Quarter for Quarter 1 of 2026</strong>, <em>AFRL Multi-domain Sensing Autonomy Division</em></summary>
+  <summary><strong>2026Q1 STEM Advocates of the Quarter Award</strong>, <em>AFRL Multi-domain Sensing Autonomy Division</em></summary>
   <p>
   The SMART scholar application review team was selected by their second-level supervisor (Division Chief) for their contribution to the FY26 cycle
   </p>
@@ -72,7 +72,7 @@ Below is a collection of awards and honors recieved in recognition of contributi
   </p>
 </details>
 <details>
-  <summary><strong>Division Nominee for the Lab Scientist of 2025 Q4</strong>, <em>AFRL Sensors Directorate</em></summary>
+  <summary><strong>2025Q4 Division Nominee for the Lab Scientist of the Quarter</strong>, <em>AFRL Sensors Directorate</em></summary>
   <p>
   Award recognizes significant contributions made during the final quarter of 2025; Nominated by second-level supervisor (Division Chief)
   </p>
@@ -124,13 +124,13 @@ Below is a collection of awards and honors recieved in recognition of contributi
   </p>
 </details>
 <details>
-  <summary><strong>STEM Advocate of the Quarter for Quarter 1 of 2024</strong>, <em>AFRL Multi-domain Sensing Autonomy Division</em></summary>
+  <summary><strong>2024Q1 STEM Advocate of the Quarter Award</strong>, <em>AFRL Multi-domain Sensing Autonomy Division</em></summary>
   <p>
   Selected by second-level supervisor for involvement with TechFest Dayton, a K-12 STEM oureach expo
   </p>
 </details>
 <details>
-  <summary><strong>Chief's Pick for Quarter 4 of 2023</strong>, <em>AFRL Multi-domain Sensing Autonomy Division</em></summary>
+  <summary><strong>2023Q4 Chief's Pick Award</strong>, <em>AFRL Multi-domain Sensing Autonomy Division</em></summary>
   <p>
   Selected by second-level supervisor for work contributions
   </p>
