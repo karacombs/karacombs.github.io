@@ -93,6 +93,9 @@ page-layout: full
 ::: {.accordion-collapse .collapse .show #collapse2026 data-bs-parent="#newsAccordion"}
 ::: {.accordion-body}
 
+**July 2026**
+- SMART Scholar mentee, Jacqueline Liu, had her 2025 summer project, "Efficient unsupervised band selection for hyperspectral imagery with mamba-based classifier – An in-depth comparative analysis," accepted for publication in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)
+
 **June 2026**
 
 - Presented "AutoDRAMA: A graph-based approach to relational similarity and analogical mapping" at the 2026 Military Operations Research Society (MORS) Symposium in Colorado Springs, CO
