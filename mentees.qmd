@@ -75,7 +75,7 @@ I enjoy working with students of all ages and make an effort to mentor the next 
       <div class="slide-text" style="flex: 1; padding-left: 20px; display: flex; flex-direction: column; justify-content: center;">
         <h4 style="color: #553590; margin-bottom: 15px;">Jacqueline Liu</h4>
         <h6 margin-bottom: 15px;"><em>SMART Scholar 2025</em></h6>
-        <p>Project incorporated into IEEE JSTARS paper, accepted</p>
+        <p>Projects incorporated into IEEE JSTARS and 2026 DroneSys Workshop (co-located with ACM/IEEE SEC) papers, accepted</p>
       </div>
     </div>
   </div>
@@ -339,7 +339,7 @@ Mentees are assigned to a mentor throughout their degree while summer interns ar
 <details>
   <summary><strong>Jacqueline Liu</strong>, <em>Ph.D. in computer science at Binghamton University (SUNY)</em></summary>
   <ul>
-    <li> 2026 Project: Development of real-world and synthetic HSI datasets for anomaly detection</li>
+    <li> 2026 Project: Development of real-world and synthetic HSI datasets for anomaly detection (incorporated into DroneSys Workshop (co-located with ACM/IEEE SEC) paper, accepted)</li>
     <li> 2025 Project: Efficient Hyperspectral Data Processing on the Edge: Band Selection with Mamba Models (incorporated into IEEE JSTARS paper, accepted)</li>
   </ul>
 </details>

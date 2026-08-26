@@ -93,6 +93,10 @@ page-layout: full
 ::: {.accordion-collapse .collapse .show #collapse2026 data-bs-parent="#newsAccordion"}
 ::: {.accordion-body}
 
+**August 2026**
+
+- Jacqueline Liu, SMART scholar mentee, had her 2026 summer project, "RT-RX: Real-time Hyperspectral Anomaly Detection on Small UAVs", accepted at the DroneSys Workshop (co-located with ACM/IEEE SEC)
+
 **July 2026**
 
 - Appointed as a member of the Women in Defense (WID)'s Special Advisory Board

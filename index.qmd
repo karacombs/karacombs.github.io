@@ -42,6 +42,10 @@ I am a computer engineer at the Air Force Research Laboratory. I hold a Ph.D. in
 
 ::: {.timeline}
 
+**August 2026**
+
+- Jacqueline Liu, SMART scholar mentee, had her 2026 summer project, "RT-RX: Real-time Hyperspectral Anomaly Detection on Small UAVs", accepted at the DroneSys Workshop (co-located with ACM/IEEE SEC)
+
 **July 2026**
 
 - Appointed as a member of the Women in Defense (WID)'s Special Advisory Board
