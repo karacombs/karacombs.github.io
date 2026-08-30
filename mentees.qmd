@@ -271,42 +271,42 @@ setInterval(() => {plusMentoringSlides(1);}, 8000);
 
 ## Defense Associated Graduate Student Innovators (DAGSI) Fellows
 
-DAGSI fellows are graduate students competitively selected to work with a mentor for 1-3 years on a research project related to their degree.
+DAGSI fellows are graduate students competitively selected to work with an AFRL mentor for 1-3 years on a research project related to their degree.
 
 <details>
-  <summary><strong>Carson Bartholic</strong>, <em>Ph.D. in computer science at Ohio University</em></summary>
+  <summary><strong>Carson Bartholic</strong>, <em>Ph.D. in Computer Science at Ohio University</em></summary>
   <ul>
     <li> 2026 - 2030 Project: Uncrewed aerial vehicles (UAV) detection using neuromorphic solutions  </li>
   </ul>
 </details>
 <details>
-  <summary><strong>Davin Dillon</strong>, <em>Ph.D. in computer science at Ohio University</em></summary>
+  <summary><strong>Davin Dillon</strong>, <em>Ph.D. in Computer Science at Ohio University</em></summary>
   <ul>
     <li> 2026 - 2030 Project: Reinforcement learning guided by analogical graph neural networks (GNNs) </li>
   </ul>
 </details>
 <details>
-  <summary><strong>Zachary Sensel</strong>, <em>M.S. in electrical engineering at Wright State University</em></summary>
+  <summary><strong>Zachary Sensel</strong>, <em>M.S. in Electrical Engineering at Wright State University</em></summary>
   <ul>
     <li> 2026 - 2028 Project: Situationally aware, intent-based sensor fusion and generative AI </li>
   </ul>
 </details>
 <details>
-  <summary><strong>James Pennington</strong>, <em>Ph.D. in computer science at Ohio University</em></summary>
+  <summary><strong>James Pennington</strong>, <em>Ph.D. in Computer Science at Ohio University</em></summary>
   <ul>
     <li> 2025 - 2027 Project: Advanced multi-platform and multi-source fusion </li>
   </ul>
 </details>
 <details>
-  <summary><strong>Addam Jensen</strong>, <em>M.S. in computer science and engineering at Ohio State University</em></summary>
+  <summary><strong>Addam Jensen</strong>, <em>M.S. in Computer Science and Engineering at Ohio State University</em></summary>
   <ul>
     <li> 2025 - 2026 Project: Reinforcement learning with analogical transfer </li>
   </ul>
 </details>
 <details>
-  <summary><strong>Derrick Cox</strong>, <em>Ph.D. in computer science at Wright State University</em></summary>
+  <summary><strong>Derrick Cox</strong>, <em>Ph.D. in Computer Science at Wright State University</em></summary>
   <ul>
-    <li> 2024 - 2026 Project: Event sequence learning from textual scenarios (incorporated into 2026 NARST presentation & IEEE TCSS paper, in review)</li>
+    <li> 2024 - 2026 Project: Event sequence learning from textual scenarios (incorporated into 2026 NARST presentation, IEEE TCSS paper [in review], and IEEE BigData paper [in review])</li>
   </ul>
 </details>
 
@@ -315,7 +315,7 @@ DAGSI fellows are graduate students competitively selected to work with a mentor
 LEGACY interns are rising high school juniors/seniors or collegiate students who are paired with a mentor for a summer internship.
 
 <details>
-  <summary><strong>Isaiah Goble</strong>, <em>B.S. in computer engineering at Bowling Green State University</em></summary>
+  <summary><strong>Isaiah Goble</strong>, <em>B.S. in Computer Engineering at Bowling Green State University</em></summary>
   <ul>
     <li> 2025 Project: Development of machine-interpretable knowledge graph datasets from analogies (incorporated into ISER paper, accepted)</li>
     <li> 2024 Project: Evaluation and comparison of large language models’ analogical reasoning abilities (incorporated into [IEEE TCDS Paper](https://doi.org/10.1109/TCDS.2025.3559771)) </li>
@@ -331,13 +331,13 @@ Mentees are assigned to a mentor throughout their degree while summer interns ar
 
 ### Summer Intern(s)
 <details>
-  <summary><strong>Olivia Ben Aoumeur</strong>, <em>Ph.D. in information science at the University of Albany (SUNY)</em></summary>
+  <summary><strong>Olivia Ben Aoumeur</strong>, <em>Ph.D. in Information Science at the University of Albany (SUNY)</em></summary>
   <ul>
     <li> 2026 Project: Characterization of the SAMPLE-R (SAMPLE by RAPTOR) dataset</li>
   </ul>
 </details>
 <details>
-  <summary><strong>Jacqueline Liu</strong>, <em>Ph.D. in computer science at Binghamton University (SUNY)</em></summary>
+  <summary><strong>Jacqueline Liu</strong>, <em>Ph.D. in Computer Science at Binghamton University (SUNY)</em></summary>
   <ul>
     <li> 2026 Project: Development of real-world and synthetic HSI datasets for anomaly detection (incorporated into DroneSys Workshop (co-located with ACM/IEEE SEC) paper, accepted)</li>
     <li> 2025 Project: Efficient Hyperspectral Data Processing on the Edge: Band Selection with Mamba Models (incorporated into IEEE JSTARS paper, accepted)</li>
@@ -349,14 +349,14 @@ Mentees are assigned to a mentor throughout their degree while summer interns ar
 Wright Scholars are high school juniors/seniors or collegiate freshmen/sophomores who are paired with a researcherer for a summer internship.
 
 <details>
-  <summary><strong>Isaiah Christopherson</strong>, <em>B.S. electrical engineering at Miami University (OH)</em></summary>
+  <summary><strong>Isaiah Christopherson</strong>, <em>B.S. Electrical Engineering at Miami University (OH)</em></summary>
   <ul>
     <li> 2024 Project: Optimizing algorithm pre-processing steps and analyzing convolutional neural network performance (incorporated into [2025 IEEE NAECON Paper](https://doi.org/10.1109/NAECON65708.2025.11235477)) </li>
     <li> 2023 Project: Leveraging generative AI and human factors techniques for building image datasets (shared project; incorporated into [2024 ACM SIGMIS CPR Conference Paper](https://doi.org/10.1145/3632634.3655849)) </li>
   </ul>
 </details>
 <details>
-  <summary><strong>Arya Gadre</strong>, <em>B.S. economics at Ohio State University</em></summary>
+  <summary><strong>Arya Gadre</strong>, <em>B.S. Economics at Ohio State University</em></summary>
   <ul>
     <li> 2023 Project: Leveraging generative AI and human factors techniques for building image datasets (shared project; incorporated into [2024 ACM SIGMIS CPR Conference Paper](https://doi.org/10.1145/3632634.3655849))</li>
   </ul>
