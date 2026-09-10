@@ -49,6 +49,11 @@ Below is a collection of awards and honors recieved in recognition of contributi
 
 ## 2026
 <details>
+  <summary><strong>2026 Rising Technical Contributor Award</strong>, <em>Society of Women Engineers</em></summary>
+  <p>
+  Awarded for outstanding technical performance and/or leadership in a technical field, professional organizations, and the community who have five or less years of experience in engineering and related disciplines
+  </p>
+</details><details>
   <summary><strong>2026Q1 Technical Achievement Award (Individual)</strong>, <em>AFRL Multi-domain Sensing Autonomy Division</em></summary>
   <p>
   Selected by second-level supervisor (Division Chief) for completing PhD dissertation six months ahead of schedule in support of analogical reasoning

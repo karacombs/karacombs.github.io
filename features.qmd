@@ -257,6 +257,31 @@ See below for a collection of stories and spotlights featuring my work, my stude
 
 ## 2026
 
+### 2026 SWE Awards Celebrate Achievements Across Engineering and STEM
+
+Meet the 2026 Society of Women Engineers (SWE) awards recipients who are advancing engineering, driving innovation in STEM, and championing the next generation of engineers!
+
+```{=html}
+<div class="features-carousel" data-carousel="carousel21">
+    <button class="carousel-nav prev" onclick="moveCarousel(-1, 'carousel20')">‹</button>
+    <button class="carousel-nav next" onclick="moveCarousel(1, 'carousel20')">›</button>
+
+    <div class="carousel-wrapper" id="carousel2">
+
+      <a href="https://alltogether.swe.org/2026/09/2026-swe-awards-recipients/" class="feature-card" target="_blank">
+        <div class="card-image has-img" style="background-color: white;">
+          <img src="https://alltogether.swe.org/wp-content/uploads/2026/09/Cover-image-2026-SWE-Awards-Recipients-for-blog-1200.jpg" alt="Star sitting in glitter" style="object-fit: cover;">
+        </div>
+        <div class="feature-card-content">
+          <div class="date">October 2026</div>
+          <div class="outlet">SWE All Together Blog</div>
+        </div>
+      </a>
+
+    </div>
+  </div>
+```
+
 ### Air University’s AFIT graduates 181 students, strengthens Joint Force through technical expertise
 
 The Air University’s Air Force Institute of Technology graduated 181 students during its March 2026 commencement ceremony, highlighting Air University’s role in developing technically advanced warfighters who can solve operational problems across the Joint Force.

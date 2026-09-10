@@ -42,6 +42,10 @@ I am a computer engineer at the Air Force Research Laboratory. I hold a Ph.D. in
 
 ::: {.timeline}
 
+**October 2026**
+
+- Recognized as one of the Society of Women Engineers (SWE) 2026 Rising Technical Contributor Award for individuals who have had outstanding technical performance and/or leadership in a technical field, professional organizations, and the community who have five or less years of experience in engineering and related disciplines
+
 **August 2026**
 
 - Jacqueline Liu, SMART scholar mentee, had her 2026 summer project, "RT-RX: Real-time Hyperspectral Anomaly Detection on Small UAVs", accepted at the DroneSys Workshop (co-located with ACM/IEEE SEC)
