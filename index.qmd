@@ -46,6 +46,8 @@ I am a computer engineer at the Air Force Research Laboratory. I hold a Ph.D. in
 
 - Recognized as one of the Society of Women Engineers (SWE) 2026 Rising Technical Contributor Award for individuals who have had outstanding technical performance and/or leadership in a technical field, professional organizations, and the community who have five or less years of experience in engineering and related disciplines
 
+- Jacqueline Liu, SMART scholar mentee, had her 2025 summer project, "Efficient unsupervised band selection for hyperspectral imagery with mamba-based classifier – An in-depth comparative analysis" published in [IEEE JSTARS](https://doi.org/10.1109/JSTARS.2026.3721721) and her 2026 summer project, "RT-RX: Real-time Hyperspectral Anomaly Detection on Small UAVs" published as part of the [Proceedings of the2026 DroneSys Workshop (co-located with ACM/IEEE SEC)](https://www.researchgate.net/publication/413748660_RT-RX_An_Edge_Computing_Pipeline_for_Real-Time_UAV_Hyperspectral_Anomaly_Detection)
+
 **August 2026**
 
 - Jacqueline Liu, SMART scholar mentee, had her 2026 summer project, "RT-RX: Real-time Hyperspectral Anomaly Detection on Small UAVs", accepted at the DroneSys Workshop (co-located with ACM/IEEE SEC)
@@ -55,10 +57,6 @@ I am a computer engineer at the Air Force Research Laboratory. I hold a Ph.D. in
 - Appointed as a member of the Women in Defense (WID)'s Special Advisory Board
 
 - SMART Scholar mentee, Jacqueline Liu, had her 2025 summer project, "Efficient unsupervised band selection for hyperspectral imagery with mamba-based classifier – An in-depth comparative analysis," accepted for publication in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)
-
-**June 2026**
-
-- Presented "AutoDRAMA: A graph-based approach to relational similarity and analogical mapping" at the 2026 Military Operations Research Society (MORS) Symposium in Colorado Springs, CO
 
 :::
 
