@@ -53,6 +53,9 @@ Below is a collection of awards and honors recieved in recognition of contributi
   <p>
   Awarded for outstanding technical performance and/or leadership in a technical field, professional organizations, and the community who have five or less years of experience in engineering and related disciplines
   </p>
+  <a href="https://alltogether.swe.org/2026/09/2026-swe-awards-recipients/" class="btn btn-primary" target="_blank" style="border-radius: 24px; padding: 10px 24px;">
+    SWE Award Recipients
+  </a>
 </details><details>
   <summary><strong>2026Q1 Technical Achievement Award (Individual)</strong>, <em>AFRL Multi-domain Sensing Autonomy Division</em></summary>
   <p>
