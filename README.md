@@ -29,4 +29,4 @@ This is a minimal, professional starter for an academic website powered by **Qua
 - env\Scripts\Activate.ps1
 
 ## Updates
-- Publications: Add the citation on publications.qmd and row to /assets/publications.csv for inclusion in the figure
+- Publications: Add or edit an entry in `/assets/publications.bib`. The publication list and chart are generated from that BibLaTeX file.

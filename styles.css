@@ -1,20 +1,30 @@
-/* Minimal accent tweaks for a professional academic vibe */
+/* Purple academic accent styling for the HTML site. */
 :root {
   --bs-primary: #553590;
   --bs-secondary: #6c757d;
 }
+
+body.nav-fixed {
+  padding-top: 0 !important;
+}
+
+#quarto-header,
+header.headroom,
+header.fixed-top {
+  position: relative !important;
+  top: auto !important;
+  transform: none !important;
+}
+
 .navbar-brand { font-weight: 700; }
 h1, h2, h3 { scroll-margin-top: 6rem; }
 .listing-bibliography .csl-entry { margin-bottom: 0.65rem; }
 footer { font-size: 0.9rem; }
 
-/* Grid Layout Enhancements */
-/* Default grid margin for all pages except index */
 .grid {
   margin: 2rem 0;
 }
 
-/* Remove grid margin only for index.qmd (homepage) */
 body.page-index .grid {
   margin: 0 !important;
 }
@@ -29,7 +39,6 @@ body.page-index .grid {
   transform: scale(1.02);
 }
 
-/* Timeline Styling */
 .timeline {
   padding: 1rem;
   background: linear-gradient(to bottom, #f8f9fa, #ffffff);
@@ -54,7 +63,6 @@ body.page-index .grid {
   font-weight: 600;
 }
 
-/* Slideshow Container */
 .slideshow-placeholder {
   height: 100%;
 }
@@ -69,36 +77,35 @@ body.page-index .grid {
   box-shadow: 0 8px 16px rgba(0,0,0,0.1);
 }
 
-/* Responsive adjustments */
 @media (max-width: 768px) {
   .grid .g-col-4,
   .grid .g-col-6,
   .grid .g-col-8 {
     margin-bottom: 2rem;
   }
-  
+
   .timeline {
     margin-bottom: 2rem;
   }
 }
 
-/* Publications counts grid: keep 3 columns on desktop, stack on narrow screens */
 .pub-counts-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 0.5rem;
   align-items: center;
 }
+
 @media (max-width: 768px) {
   .pub-counts-grid {
     grid-template-columns: 1fr;
   }
+
   .pub-counts-grid h1 {
     font-size: 2.25rem;
   }
 }
 
-/* Awards page summary styling */
 details summary {
   color: var(--bs-primary);
   cursor: pointer;
@@ -108,7 +115,6 @@ details summary:hover {
   color: #4a2d7a;
 }
 
-/* Floating toggle button for awards */
 .awards-toggle {
   position: fixed;
   right: 20px;
@@ -137,7 +143,6 @@ details summary:hover {
   transform: scale(0.95);
 }
 
-/* Hide toggle on small screens */
 @media (max-width: 768px) {
   .awards-toggle {
     display: none;

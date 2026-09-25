@@ -64,3 +64,4 @@ python:
     - jupyter
     - pyyaml
     - ipykernel
+    - bibtexparser<2
