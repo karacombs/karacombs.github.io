@@ -1,32 +1,14 @@
-# Quarto Academic Website (GitHub Pages)
+# Kara Combs Website
 
-This is a minimal, professional starter for an academic website powered by **Quarto** and deployed via **GitHub Pages**.
+This repository contains the static HTML source for Kara Combs' academic website. It is deployed directly to GitHub Pages.
 
-## Prerequisites
-1. Install Quarto: https://quarto.org/docs/get-started/
-2. Install R: https://cran.r-project.org/
-3. Get Quarto VS Code extension (optional but recommended): https://marketplace.visualstudio.com/items?itemName=quarto.quarto
-4. Install R packages: `install.packages(c("knitr", "rmarkdown"))`
-5. Check that you can render Quarto documents: `quarto check`
+## Preview locally
 
-## How to use
+1. Start a local server with `preview.bat`.
+2. Open `http://localhost:8000` in a browser.
 
-1. Start virtual envrionment: `.\.venv\Scripts\Activate.ps1`
-2. Preview locally `quarto preview`
-3. Commit & push to GitHub 
-   `git status`
-   `git add -A`
-   `git commit -m "Your message"`
-   `git push`
-4. GitHub Actions will build and deploy to `gh-pages` branch automatically
-5. Your website will be live at `https://karacombs.github.io/`
+The site is plain HTML, CSS, JavaScript, and local assets. No Quarto, R, or Python environment is required to preview or deploy it.
 
-## Theme
-- Theme: Pulse
-- Theme preview website: https://bootswatch.com/pulse/
+## Update content
 
-## Venv
-- env\Scripts\Activate.ps1
-
-## Updates
-- Publications: Add the citation on publications.qmd and row to /assets/publications.csv for inclusion in the figure
+Edit the relevant `.html` page directly. Publication data is kept in `assets/publications.csv`; update the visible publication list in `publications.html` when adding a citation.

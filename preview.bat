@@ -1,3 +1,2 @@
 @echo off
-call .venv\Scripts\activate.bat
-quarto preview %*
+python -m http.server 8000 %*

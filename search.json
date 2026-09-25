@@ -1,0 +1,296 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Check out my publications and profiles below! The majority of my research concerns advancing artifical intelligence and machine learning (AI/ML) through analogical reasoning; however, I have also worked in passive sensing, spiking neural networks, optimization.\n11\n    Journal Articles\n  \n  \n    20\n    Conference Papers\n  \n  \n    50\n    Presentations"
+  },
+  {
+    "objectID": "publications.html#in-review",
+    "href": "publications.html#in-review",
+    "title": "Publications",
+    "section": "In review",
+    "text": "In review\n\n\n Journal  Combs, K., Champagne, L., Cox, B., Schubert Kabban, C., & Bihl, T. AutoDRAMA: A graph-based approach to relational similarity and analogical mapping. Information Sciences, in review.\n Journal  *Cotti, L., Cominelli, M., Gringoli, F., Kaplan, L.M., Srivastava, M.B., Bihl, T., Blasch, E., Combs, K., Brigham, D.O., & Cerutti F. From activity recognition to shift detection: Variational Wi-Fi sensing with evidential uncertainty. Pervasive and Mobile Computing, in review.   \n Conference  *Cox, D., Banerjee, T., Romine, W., Combs, K., & Schack, B. Discourse-derived moral foundations profiling of politically distinct online communities via conversation flow-based learning. Proceedings of IEEE BigData, in review.\n Presentation  Combs, K.(2026). AutoDRAMA: A graph-based approach to relational similarity and analogical mapping. 10th Annual AFRL AI/ML Technical Exchange Meeting, Virtual.\n\n*Student Author; ‡Invited Talk"
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "2026",
+    "text": "2026\n\n\n Journal  Combs, K., Champagne, L., Cox, B., Schubert Kabban, C., Bihl, T., & Lemming, G. (2026). Analogy2KG: An automatic pipeline for deriving knowledge graphs from long-text analogies. Knowledge-based Systems, 341, 115772. DOI: 10.1016/j.knosys.2026.115772.\n Journal  *Goble, I., Combs, K., & Lemming, G. (2026). A comparison of machine-generated narrative knowledge graphs against human interpretation. Industrial & Systems Egineering Review, accepted.\n Journal  *Liu, J., Combs., K., & Boubin, J. Efficient unsupervised band selection for hyperspectral imagery with Mamba-based classifier – An in-depth comparative analysis. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 19, 27023-24037. DOI: 10.1109/JSTARS.2026.3721721.\n Conference  *Liu, J, Combs, K., & Boubin, J. RT-RX: Real-time hyperspectral anomaly detection on small UAVs. (2026). Proceedings of the 2nd DroneSys Workshop (co-located with ACM/IEEE SEC). [PDF]\n Conference  *Perry, R., Di Caterina, G., Combs, K., & *Conway, F. A novel method for determining SNR in neuromorphic recordings. Proceedings of the 3rd Workshop on Neuromorphic Vision (NeVi) (co-located with ECCV). [PDF]\n Conference  *Belgaonkar, S., Rathinam, S., Swaroop, D., Combs, K., Washington, A. & Bihl, T. (2026). Two-stage Pareto front approximation for the biobjective Steiner traveling salesman problem. Proceedings of the 2026 Intelligent Robots and Systems (IROS) Conference, accepted.\n Conference  *Cotti, L., Lavazza, L. Cominelli, M., Han, L., Dong, G., Gringoli, F., Srivastava, M.B., Bihl, T., Blasch, E.P., Brigham, D.O., Combs., K., Kaplan., L.M., & Cerutti, F. (2026). Towards causally interpretable Wi-Fi CSI-based human activity recognition with discrete latent compression and LTL rule extraction. Proceedings of the 2026 29th International Conference on Information Fusion (FUSION 2026). ArXiv:2605.06361.\n Conference  *Pagani, A., Cominelli, M., Han, L., Dong, G., Benini, S., Gringoli, F., Savardi, M., Srivastava, M.B., Bihl, T., Blasch, E.P., Brigham, D.O., Combs., K., Kaplan., L.M., & Cerutti, F. (2026). Preliminary insights in Chronos data understanding and reconstruction. Proceedings of the 2026 29th International Conference on Information Fusion (FUSION 2026). ArXiv:2604.22979.\n Conference  Combs, K., Champagne, L., Cox, B., Schubert Kabban, C., Lemming, G., & Bihl, T. (2026).Statistical quantification of analogical correspondence in knowledge graphs. IISE Annual Conference & Expo 2026, Arlington, TX.\n Conference  Combs, K., Champagne, L., Lemming, G., & Bihl, T.J. (2026). Evaluation of information extraction algorithms for preserving analogical semantics within knowledge graphs. 59th Hawaii International Conference on System Sciences, Maui, USA, 1814-1823. [PDF].\n Conference  *Perry, R., Di Caterina, G., Bihl, T., & Combs, K. (2026). Addressing the lack of neuromorphic data in low SNR scenarios. 59th Hawaii International Conference on System Sciences, Maui, USA,7297-7306. [PDF].\n Conference  Lemming, G., Combs, K., Howlett, S., & Bihl, T.J. (2026). Human-in-the-loop hybrid and automated pre-processing for zero-shot aerial part-matching via analogical reasoning. 59th Hawaii International Conference on System Sciences, Maui, USA, 6074-6083. Retrieved from https://hdl.handle.net/10125/112122\n Presentation  Combs, K., Champagne, L., Cox, B., Schubert Kabban, C., & Bihl, T. (2026). AutoDRAMA: A graph-based approach to relational similarity and analogical mapping. 94th Military Operations Research Society (MORS) Symposium, Colorado Springs, CO.\n Presentation  *Goble, I. & Combs, K. (2026). Evaluating and validating auto-generated knowledge graph accuracy. Dayton-Cincinnati Aerospace Sciences Symposium, Dayton, OH.\n Presentation  Turner, D., Sarkisian, C., & Combs, K. SAMPLE-R (SAMPLE (Synthetic and Measured Paired Labeled Experiment) by RAPTOR (Rapid Target Predictor)) Dataset: Rapid Synthetic SAR Chip Generation. 89th Automated Target Recognition Working Group (ATRWG) Meeting, Boston, MA, accepted.\n Presentation  Combs, K., Champagne, L., Lemming, G., & Bihl, T. (2026). Analogy2KG: An automatic pipeline for transformation long-text analogies into knowledge graphs. 9th Annual AFRL AI/ML Technical Exchange Meeting, Virtual.\n Presentation  Combs, K., Champagne, L., Lemming, G., & Bihl, T. From text to tactical insight: Advancing UAV swarm autonomy with analogical AI. AFRL Discover 2025 (postponed due to government shutdown), accepted.\n Poster  *Liu, J. & Combs., K. Efficient hyperspectral data processing on the edge: Band selection with Mamba models. AFRL Discover 2025 (postponed due to government shutdown), accepted.\n\n*Student Author; ‡Invited Talk"
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications",
+    "section": "2025",
+    "text": "2025\n\n\n Journal  Combs, K., *Goble, I., Howlett, S.V., Adams, Y., & Bihl, T.J. (2025). Evaluating the trade-off between analogical reasoning ability and efficiency in large language models. IEEE Transactions on Cognitive and Developmental Systems, 17(6), 1401-1410. DOI: 10.1109/TCDS.2025.3559771.\n Conference  *Christopherson, I., Combs, K., & Soriano, K. (2025). Fine-tuning deep convolutional neural networks on Caltech-101: An application of transfer learning. IEEE National Aerospace and Electronics Conference, Dayton, USA, 1-6. DOI: 10.1109/NAECON65708.2025.11235477\n Conference  Combs, K. & Bihl, T. J. (2025). The visual analogs of linguistic concepts and their implications on generative AI. Proceedings of the 58th Hawaii International Conference on System Sciences, Big Island, USA, 718-727. Retrieved from [PDF].\n Conference  Nominated for HICSS58 Best Paper Combs, K., Bihl, T. J., Howlett, S., & Adams, Y. (2025). Zero-shot comparison of large language models (LLMs) reasoning abilities on long-text analogies. Proceedings of the 58th Hawaii International Conference on System Sciences, Big Island, USA, 1614-1623. [PDF].\n Presentation  *Goble, I. & Combs, K. (2025). Evaluation and comparison of large language models’ analogical reasoning abilities. Dayton-Cincinnati Aerospace Sciences Symposium, Dayton, OH.\n Poster  *Liu, J. & Combs, K. (2025). Exploring the Explainability of Mamba Model for Hyperspectral Imagery. Sensors Directorate Internship Program (SDIP) Final Review, Dayton, OH.\n\n*Student Author; ‡Invited Talk"
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Publications",
+    "section": "2024",
+    "text": "2024\n\n\n Journal  Science Spot Feature Combs, K. & Bihl, T.J. (2024) Question optimisation: Building quiz bowl tournament question packet sets. International Journal of Data Analysis Techniques and Strategies, 16(4), 386-409. DOI: 10.1504/IJDATS.2024.10064492.\n Journal  Combs, K., Bihl, T.J., & Ganapathy, S. (2024). Utilization of generative AI for the characterization and identification of visual unknowns. Natural Language Processing Journal, 7, 100064. DOI: 10.1016/j.nlp.2024.100064.\n Journal  Combs, K., Moyer, A., & Bihl, T.J. (2024). Uncertainty in visual generative AI. Algorithms, 17(4), 136. DOI: 10.3390/a17040136.\n Conference  Combs, K., Bihl, T., *Gadre, A., & *Christopherson, I. (2024). A human-factors approach for evaluating AI-generated images. Proceedings of the ACM SIGMIS Computers and People Research Conference 2024, Murfreesboro, TN. DOI: 10.1145/3632634.3655849.\n Conference  Combs, K., Bihl, T. J., & Pennington, J. (2024). Interoperability for autonomy. Proceedings of the 57th Hawaii International Conference on System Sciences, Honolulu, USA, 903-912. [PDF].\n Conference  Combs, K. & Bihl, T. J. (2024). A preliminary look at generative AI for the curation and evaluation of verbal-to-visual analogies. Proceedings of the 57th Hawaii International Conference on System Sciences, Honolulu, USA, 1180-1189. [PDF].\n Conference  Bihl, T., Farr, P., Di Caterina, G., Kirkland, P., *Sola, A.V., *Manna, D., Liu, J., & Combs, K. (2024). Exploring spiking neural networks (SNN) for low size, weight, and power (SWaP) benefits. Proceedings of the 57th Hawaii International Conference on System Sciences, Honolulu, USA, 7561-7570. [PDF].\n Magazine  Combs, K. (2024). Making the most of this AI moment. OR/MS Today, 11. DOI: 10.1287/orms.2024.03.22n.\n Magazine  Combs, K. (2024). Certifications for early career OR/MS professionals. OR/MS Tomorrow, 11(1), 7-10. DOI: 10.1287/ORTM.2024.01.01.\n Magazine  Combs, K. (2024). Informing tomorrow’s leaders: The advantages of INFORMS student membership and its impact on academic excellence. OR/MS Today, 51(1), 58-59. DOI: 10.1287/orms.2024.01.12.\n Presentation  Combs, K., Lemming, G., Howlett, S., & Bihl, T.J. (2024). Structure-mapping via analogical reasoning: A novel approach to handle out-of-library (OOL) targets. 87th Automated Target Recognition Working Group (ATRWG) Meeting, Huntsville, AL.\n Presentation  *Christopherson, I. & Combs, K. (2024). Optimizing algorithm pre-processing steps and analyzing convolutional neural network performance. Wright Scholar Presentation Session, Wright-Patterson AFB, OH.\n Presentation  *Goble, I. & Combs, K. (2024). Evaluation and comparison of large language models’ analogical reasoning ability. DAF LEGACY Program Presentation Session, Wright-Patterson AFB, OH.\n Presentation  Combs, K. (2024). Analogical learning: An overview of applications. INFORMS Cincinnati-Dayton Research Symposium, Dayton, OH.\n Presentation  *Christopherson, I., Combs, K., & Camberos, J. (2024). Leveraging generative AI and human factors techniques for building image datasets. Dayton-Cincinnati Aerospace Sciences Symposium, Dayton, OH.\n Poster  Jenkins, T., Bihl, T.J., Combs, K., Maholtra, R., Morrison, B., Robinson, B., Soriano, K., Kimbrell, J., & Souvlati, P. (2024). Onboard Tactical Autonomous Sensor Orchestration (OTASO). AFRL Discover 2024, Wright-Patterson AFB, OH.\n Poster  Combs, K., Lemming, G., Howlett, S., & Bihl, T.J. (2024). Analogical reasoning for aerial sensing autonomy. AFRL Discover 2024, Wright-Patterson AFB, OH.\n\n*Student Author; ‡Invited Talk"
+  },
+  {
+    "objectID": "publications.html#section-3",
+    "href": "publications.html#section-3",
+    "title": "Publications",
+    "section": "2023",
+    "text": "2023\n\n\n Journal  Combs, K., Lu, H., & Bihl, T. (2023). Transfer learning and analogical inference: A critical comparison of algorithms, methods, and applications. Algorithms, 16(3), 146. DOI: 10.3390/a16030146.\n Conference  Combs, K., Ganapathy, S., & Bihl, T. (2023). Human factors evaluation of automated semantic characterization of out-of-library images for the design for eXplainable AI systems. Proceedings of the IISE Annual Conference 2023, New Orleans, USA.\n Conference  Combs, K. & Bihl, T. J. (2023). Clustering and topological data analysis: Comparison and application. Proceedings of the 56th Hawaii International Conference on System Sciences, Maui, USA, 815-824. [PDF].\n Conference  Combs, K., Bihl, T. J., & Ganapathy, S. (2023). Integration of computer vision and analogical reasoning for characterizing unknowns. Proceedings of the 56th Hawaii International Conference on System Sciences, Maui, USA, 960-969. [PDF].\n Magazine  Combs, K. (2023). An introduction to computer vision with Keras. OR/MS Tomorrow, 10(2), 15-17. [HTML].\n Magazine  Combs, K. (2023). The power of platforms to transform healthcare. OR/MS Today, 50(6). DOI: 10.1287/orms.2023.04.03n.\n Magazine  Combs, K. (2023). OR/MS Tomorrow Alumni Story: Yue Wang, Ph.D. OR/MS Tomorrow, 1, 29. [PDF].\n Magazine  Combs, K. (2023). Continuing the legacy of the Engineers Club of Dayton. ISE Magazine, 55(1), 44-47. [PDF].\n Presentation  ‡Combs, K. (2023). Adding your own value. Tau Beta Pi Ohio Mu Chapter (Wright State University) Initiation Ceremony, Dayton, OH.\n Presentation  Combs, K. & Jacoby-Morris, K. (2023). AFRL STEM outreach and workforce development. AFRL Junior Force Council Leadership Symposium, Washington D.C.\n Poster  *Gadre, A., *Christopherson, I., Combs, K., & Camberos, J. (2023). Leveraging generative AI and human factors techniques for building image datasets. Wright Scholars Presentation and Poster Session, Wright-Patterson AFB, OH.\n\n*Student Author; ‡Invited Talk"
+  },
+  {
+    "objectID": "publications.html#section-4",
+    "href": "publications.html#section-4",
+    "title": "Publications",
+    "section": "2022",
+    "text": "2022\n\n\n Journal  Zadeh, A., Combs, K., Burkey, B., Dop, J., Duffy, K., & Nosoudi, N. (2022). Pet analytics: Predicting adoption speed of pets from their online profiles. Journal of Expert Systems with Applications, 204, 1-10. DOI: 10.1016/j.eswa.2022.117596.\n Journal  Ballester, N., Parikh, P. J., Combs, K., & Peck, J. (2022). Inpatient discharge-by-noon: Are fewer better than all? Journal of Maine Medical Center, 4(1), 1-6. DOI: 10.46804/2641-2225.1105.\n Conference  Combs, K., Bihl, T. J., Ganapathy, S., & Staples, D. (2022). Analogical reasoning: An algorithm comparison for natural language processing. Proceedings of the 55th Hawaii International Conference on System Sciences, Virtual, 1310-1319. DOI: 10.24251/HICSS.2022.161.\n Magazine  Combs, K. (2022). Modeling for COVID-19 college reopening decisions: Cornell, a case study by Peter I. Frazier, Shane G. Henderson, and David B. Shmoys. OR/MS Today, 49(6). DOI: 10.1287/orms.2022.05.34n.\n Magazine  Combs, K. (2022). Global health security and healthcare supply chains: Perspectives and opportunities for operations research. OR/MS Today, 49(6). DOI: 10.1287/orms.2022.05.22n.\n Magazine  Combs, K. (2022). Introducing IISE’s student leadership board. ISE Magazine, 54(6), 26.\n Magazine  Combs, K. (2022). Introducing ISE: Fostering awareness one student at a time. OR/MS Today, 49(1), 50-51. DOI: 10.1287/orms.2022.01.09.\n Presentation  Combs, K., Bihl, T. J., & Ganapathy, S. (2022). Integration of computer vision and analogical reasoning for characterizing unknowns. INFORMS Annual Meeting, Indianapolis, IN.\n Presentation  ‡Combs, K. (2022). Analogical reasoning. Engineers Club of Dayton Barn Gang, Dayton, OH.\n\n*Student Author; ‡Invited Talk"
+  },
+  {
+    "objectID": "publications.html#section-5",
+    "href": "publications.html#section-5",
+    "title": "Publications",
+    "section": "2021",
+    "text": "2021\n\n\n Magazine   Highlight of ISE Magazine 2021 Combs, K. & Zadeh, A. (2021). Case study – animal analytics: Predicting pet adoption speeds as a multidisciplinary team. ISE Magazine, 53(10), 48-50. [PDF].\n Magazine  Leung, J. & Combs, K. (2021). Practicing visualization in OR/MS: An art and a science. OR/MS Today, 48(5), 60-61. DOI: 10.1287/orms.2021.05.10.\n Presentation  2nd Place in IISE Global Undergraduate Technical Paper Competition  Ellison, K., Combs, K., & Sebastian, S. (2021). Putting a smile on redesigning: A dental facility layout problem. IISE Annual Conference & Expo, Virtual.\n Presentation  Combs, K., Bihl, T., Ganapathy, S., & Staples, D. (2021). Analogical reasoning: A comparison of algorithms. INFORMS Annual Meeting, Anaheim, CA.\n Presentation  1st Place in IISE Great Lakes Regional Undergraduate Technical Paper Competition Ellison, K., Combs, K., & Sebastian, S. (2021). Putting a smile on redesigning: A dental facility layout problem. IISE Great Lakes Regional Conference, Virtual.\n Presentation  Combs, K. & Sebastian, S. (2021). What you can be as an ISE. Northwest Ohio Center’s Women in STEM Day, Virtual.\n Presentation  Combs, K., Sebastian, S., & Cao, C. (2021). Developing the cost and value justification of a new endovascular technology through mathematical modeling and forecasting approaches. IISE Global Capstone Showcase Webinar, Virtual.\n\n*Student Author; ‡Invited Talk"
+  },
+  {
+    "objectID": "publications.html#section-6",
+    "href": "publications.html#section-6",
+    "title": "Publications",
+    "section": "2020",
+    "text": "2020\n\n\n Journal  Combs, K., Fendley, M., & Bihl, T. (2020). A preliminary look at heuristic analysis for assessing artificial intelligence eXplainability. WSEAS Transactions on Computer Research, 8(9), 61-72. DOI: 10.37394/232018.2020.8.9.\n Presentation  Combs, K., Camp, A. & Ganapathy, S. (2020). Industrial & systems engineering: It’s fun and it changes the world. Chaminade Julienne Catholic High School’s STEMM Idol Speaker Series, Virtual.\n Presentation   2nd Place in IISE Global Undergraduate Technical Paper Competition  Combs, K. (2020). Cramming questions: Quiz bowl set optimization. IISE Annual Conference & Expo 2020, Virtual.\n Presentation   1st Place in IISE Great Lakes Regional Undergraduate Technical Paper Competition  Combs, K. (2020). Cramming questions: Quiz bowl set optimization. IISE Great Lakes Regional Conference, Kalamazoo, MI.\n Presentation  Combs, K. L. & Bihl, T. J. (2020). Cramming questions: Quiz bowl set optimization. INFORMS Cincinnati-Dayton Research Symposium, Dayton, OH.\n Poster  2nd Place in Undergraduate Catgory Combs, K. (2020). Cramming questions: Quiz bowl set optimization. OR/MS Tomorrow Mini-poster Competition, Virtual.\n\n*Student Author; ‡Invited Talk"
+  },
+  {
+    "objectID": "mentees.html",
+    "href": "mentees.html",
+    "title": "Mentees",
+    "section": "",
+    "text": "Expand All\nI enjoy working with students of all ages and make an effort to mentor the next generation each year. I have served as a mentor for eleven students across four programs (DAGSI, LEGACY, SMART, Wright Scholar)."
+  },
+  {
+    "objectID": "mentees.html#mentee-highlights",
+    "href": "mentees.html#mentee-highlights",
+    "title": "Mentees",
+    "section": "Mentee Highlights",
+    "text": "Mentee Highlights\n\n\n\n  \n  \n    \n      \n        \n      \n      \n        Isaiah Christopherson\n        Wright Scholar Research Assistant 2023 & 2024\n        Projects incorporated into AIAA DCASS presentation, a 2024 ACM SIGMIS CPR paper, and a 2025 IEEE NAECON paper\n      \n    \n  \n\n  \n    \n      \n        \n      \n      \n        Jacqueline Liu\n        SMART Scholar 2025\n        Project incorporated into 2025 SDIP Final Review and AFRL Discover posters\n      \n    \n  \n\n  \n    \n      \n        \n      \n      \n        Addam Jensen\n        DAGSI Fellow 2025 - 2026\n        Pursuing M.S. in Computer Science & Engineering from Ohio State University\n      \n    \n  \n\n  \n    \n      \n        \n      \n      \n        Isaiah Goble\n        LEGACY Jr. Apprentice 2024 & 2025\n        Projects incorporated into two AIAA DCASS presentations, an IEEE NAECON paper, and anIEEE TCDS paper\n      \n    \n  \n\n  \n    \n      \n        \n      \n      \n        Olivia Ben Aoumeur\n        SMART Scholar 2026\n        Pursuing Ph.D. in information sciences at Albany University (SUNY)\n      \n    \n  \n\n  \n    \n      \n        \n      \n      \n        Derick Cox\n        DAGSI Fellow 2024 - 2026\n        Project incorporated into 2026 NARST presentation\n      \n    \n  \n\n  \n    \n      \n        \n      \n      \n        James Pennington\n        DAGSI Fellow 2025 - 2028\n        Pursuing Ph.D. in computer science at Ohio University\n      \n    \n  \n\n  \n  ‹\n  ›"
+  },
+  {
+    "objectID": "mentees.html#defense-associated-graduate-student-innovators-dagsi-fellows",
+    "href": "mentees.html#defense-associated-graduate-student-innovators-dagsi-fellows",
+    "title": "Mentees",
+    "section": "Defense Associated Graduate Student Innovators (DAGSI) Fellows",
+    "text": "Defense Associated Graduate Student Innovators (DAGSI) Fellows\nDAGSI fellows are graduate students competitively selected to work with a mentor for 1-3 years on a research project related to their degree.\n\n\nCarson Bartholic, Ph.D. in computer science at Ohio University (2030)\n\n\n\n2026 - 2030 Project: Uncrewed aerial vehicles (UAV) detection using neuromorphic solutions\n\n\n\n\n\nDavin Dillon, Ph.D. in computer science at Ohio University (2029)\n\n\n\n2026 - 2030 Project: Reinforcement learning guided by analogical graph neural networks (GNNs)\n\n\n\n\n\nZachary Sensel, M.S. in electrical engineering at Wright State University (2028)\n\n\n\n2026 - 2028 Project: Situationally aware, intent-based sensor fusion and generative AI\n\n\n\n\n\nJames Pennington, Ph.D. in computer science at Ohio University (2027)\n\n\n\n2025 - 2027 Project: Advanced multi-platform and multi-source fusion\n\n\n\n\n\nAddam Jensen, M.S. in computer science and engineering at Ohio State University (2026)\n\n\n\n2025 - 2026 Project: Reinforcement learning with analogical transfer\n\n\n\n\n\nDerrick Cox, Ph.D. in computer science at Wright State University (2026)\n\n\n\n2024 - 2026 Project: Event sequence learning from textual scenarios (incorporated into 2026 NARST presentation & IEEE TCSS paper, in review)"
+  },
+  {
+    "objectID": "mentees.html#leadership-experience-growing-apprenticeships-committed-to-youth-legacy-program",
+    "href": "mentees.html#leadership-experience-growing-apprenticeships-committed-to-youth-legacy-program",
+    "title": "Mentees",
+    "section": "Leadership Experience Growing Apprenticeships Committed to Youth (LEGACY) Program",
+    "text": "Leadership Experience Growing Apprenticeships Committed to Youth (LEGACY) Program\nLEGACY interns are rising high school juniors/seniors or collegiate students who are paired with a mentor for a summer internship.\n\n\nIsaiah Goble, B.S. in computer engineering at Bowling Green State University (2030) \n\n\n\n2025 Project: Development of machine-interpretable knowledge graph datasets from analogies (incorporated into ISER paper, accepted)\n\n\n2024 Project: Evaluation and comparison of large language models’ analogical reasoning abilities (incorporated into IEEE TCDS Paper)"
+  },
+  {
+    "objectID": "mentees.html#science-mathematics-and-research-for-transformation-smart-scholars",
+    "href": "mentees.html#science-mathematics-and-research-for-transformation-smart-scholars",
+    "title": "Mentees",
+    "section": "Science, Mathematics and Research for Transformation (SMART) Scholars",
+    "text": "Science, Mathematics and Research for Transformation (SMART) Scholars\nMentees are assigned to a mentor throughout their degree while summer interns are assigned to a mentor for a 8-12 week project during the summer.\n\nMentee(s)\nOlivia Ben Aoumeur, Ph.D. in information science at the University of Albany (SUNY) (2029)\n\n\nSummer Intern(s)\n\n\nOlivia Ben Aoumeur, Ph.D. in information science at the University of Albany (SUNY) (2029)\n\n\n\n2026 Project: Characterization of the SAMPLE-R (SAMPLE by RAPTOR) dataset\n\n\n\n\n\nJacqueline Liu, Ph.D. in computer science at Binghamton University (SUNY) (2027)\n\n\n\n2026 Project: Development of real-world and synthetic HSI datasets for anomaly detection\n\n\n2025 Project: Efficient Hyperspectral Data Processing on the Edge: Band Selection with Mamba Models (incorporated into IEEE JSTARS paper, in review)"
+  },
+  {
+    "objectID": "mentees.html#wright-scholars-research-assistant-program",
+    "href": "mentees.html#wright-scholars-research-assistant-program",
+    "title": "Mentees",
+    "section": "Wright Scholars Research Assistant Program",
+    "text": "Wright Scholars Research Assistant Program\nWright Scholars are high school juniors/seniors or collegiate freshmen/sophomores who are paired with a researcherer for a summer internship.\n\n\nIsaiah Christopherson, B.S. electrical engineering at Miami University (OH) (2028)\n\n\n\n2024 Project: Optimizing algorithm pre-processing steps and analyzing convolutional neural network performance (incorporated into 2025 IEEE NAECON Paper)\n\n\n2023 Project: Leveraging generative AI and human factors techniques for building image datasets (shared project; incorporated into 2024 ACM SIGMIS CPR Conference Paper)\n\n\n\n\n\nArya Gadre, B.S. economics at Ohio State University (2028)\n\n\n\n2023 Project: Leveraging generative AI and human factors techniques for building image datasets (shared project; incorporated into 2024 ACM SIGMIS CPR Conference Paper)"
+  },
+  {
+    "objectID": "features.html",
+    "href": "features.html",
+    "title": "Features",
+    "section": "",
+    "text": "See below for a collection of stories and spotlights featuring my work, my students’ successes, and the communities I have contributed to."
+  },
+  {
+    "objectID": "features.html#section",
+    "href": "features.html#section",
+    "title": "Features",
+    "section": "2026",
+    "text": "2026\n\nAir University’s AFIT graduates 181 students, strengthens Joint Force through technical expertise\nThe Air University’s Air Force Institute of Technology graduated 181 students during its March 2026 commencement ceremony, highlighting Air University’s role in developing technically advanced warfighters who can solve operational problems across the Joint Force.\n\n    ‹\n    ›\n\n    \n\n      \n        \n          \n        \n        \n          March 2026\n          AETC News\n        \n      \n\n    \n  \n\n\nTechFest Dayton 2026\nTechFest Dayton 2026 was amazing with over 2,500 attendees across the two days; below is a news clip about the event on local news.\n\n    ‹\n    ›\n\n    \n\n      \n        \n          \n        \n        \n          February 2026\n          WDTN 2 News"
+  },
+  {
+    "objectID": "features.html#section-1",
+    "href": "features.html#section-1",
+    "title": "Features",
+    "section": "2025",
+    "text": "2025\n\nUAlbany PhD Student Receives Federal National Defense Scholarship\nUAlbany News Center article featuring Olivia Benaoumeur, an U.S. Department of Defense SMART scholarship recipent and one of Kara’s mentees\n\n    ‹\n    ›\n\n    \n      \n        \n          \n        \n        \n          November 2025\n          UAlbany News Center\n        \n      \n    \n  \n\n\nDepartment of the Air Force (DAF) LEGACY Good News Story\n2024 & 2025 LEGACY intern, Isaiah Goble, was featured in the Wright-Patterson Air Force Base Educational Outreach Office’s (WPAFB E.O.) May 2025 newsletter for his successful presentation at the AIAA Dayton-Cincinnati Aerospce Sciences Symposium in March 2025\n\n    ‹\n    ›\n\n    \n      \n        \n          \n        \n        \n          May 2025\n          WPAFB E.O. Newsletter\n        \n      \n    \n  \n\n\nTechFest Dayton 2025\nTechFest Dayton 2025 was a great success with 2,200+ attendees across the two days. Below is news coverage of the event itself and advertisement beforehand\n\n    ‹\n    ›\n\n    \n\n      \n        \n          \n        \n        \n          February 2025\n          WDTN 2 News\n        \n      \n\n      \n        \n          \n        \n        \n          February 2025\n          Good Day Dayton"
+  },
+  {
+    "objectID": "features.html#section-2",
+    "href": "features.html#section-2",
+    "title": "Features",
+    "section": "2024",
+    "text": "2024\n\nTau Beta Pi AFIT Chapter Welcomes Newest Members\nThe Ohio Eta chapter at the Air Force Institute of Technology (AFIT) added 11 new members during their 2024 Fall Initiation\n\n    ‹\n    ›\n\n    \n      \n        \n          \n        \n        \n          December 2024\n          AFIT ENgineer Newsletter\n        \n      \n    \n  \n\n\nInspiring Tomorrow’s Innovators Through STEM Outreach\nAn AFIT professor, Dr. Jose Camberos, and Ph.D. student, Ms. Kara Combs, team-up for multiple K-12 STEM outreach collaborations through the Wright Scholars Research Assistantship Program and WPAFB Job Shadow Day. The article was originally featured on the AFIT News page, which was later referenced and cross-posted to the AFIT ENgineer Newsletter and Wright-Patterson AFB News site, respectively.\n\n    ‹\n    ›\n\n    \n      \n        \n          \n        \n        \n          January 2024\n          AFIT News\n        \n      \n\n      \n        \n          \n        \n        \n          February 2024\n          WPAFB News\n        \n      \n\n      \n        \n          \n        \n        \n          March 2024\n          AFIT ENgineer Newsletter"
+  },
+  {
+    "objectID": "features.html#section-3",
+    "href": "features.html#section-3",
+    "title": "Features",
+    "section": "2023",
+    "text": "2023\n\nDayton Inno Under 25\nName one of five Inno(vators) under 25 in the Dayton region in 2023\n\n    ‹\n    ›\n\n    \n      \n        \n          \n        \n        \n          October 2023\n          Dayton Business Journal"
+  },
+  {
+    "objectID": "features.html#section-4",
+    "href": "features.html#section-4",
+    "title": "Features",
+    "section": "2022",
+    "text": "2022\n\nWright State University Spotlight & Recruitment Videos\nFeatured in a Wright State University (WSU) Career Services Spotlight and recruitment videos for the College of Engineering & Computer Science (CECS) and the Department of Biomedical, Industrial and Human Factors Engineering (BIE)\n\n    ‹\n    ›\n\n    \n      \n        \n          \n        \n        \n          July 2022\n          WSU Career Services Spotlight\n        \n      \n\n      \n        \n          \n        \n        \n          July 2022\n          WSU BIE Department Recruitment Video\n        \n      \n\n      \n        \n          \n        \n        \n          July 2022\n          WSU CECS Recruitment Video"
+  },
+  {
+    "objectID": "features.html#section-5",
+    "href": "features.html#section-5",
+    "title": "Features",
+    "section": "2021",
+    "text": "2021\n\nNotable Fall 2021 Wright State University Graduates\nFeatured as one of three “notable” students graduating in Wright State University’s (WSU) Fall 2021 commencement ceremony\n\n    ‹\n    ›\n\n    \n      \n        \n          \n        \n        \n          December 2021\n          WSU Newsroom\n        \n      \n    \n  \n\n\nTau Beta Pi Trifecta\nAwarded the “trifecta” of Tau Beta Pi student awards and honors: an undergraduate scholarship (2019), a graduate fellowship (2021), and a Laureate (2021)\n\n    ‹\n    ›\n\n    \n\n      \n        \n          \n        \n        \n          October 2021\n          WSU Newsroom\n        \n      \n\n      \n        \n          \n        \n        \n          October 2021\n          Tau Beta Pi Blog\n        \n      \n\n    \n  \n\n\nTau Beta Pi Laureate Award\nNamed one of four Laureates, which is given annually up to five Tau Bates who have excelled in areas beyond their technical majors (specifically for service)\n\n    ‹\n    ›\n\n    \n\n      \n        \n          \n        \n        \n          October 2021\n          The Bent\n        \n      \n\n      \n        \n          \n        \n        \n          September 2021\n          The Bulletin\n        \n      \n\n    \n  \n\n\nInstitute of Industrial and Systems Engineers James W. Barany Student Award for Excellence\nThe Institute of Industrial and Systens Engineers (IISE) Barany Award recognizes undergraduate students who have brought distinction to industrial engineering at their universities\n\n    ‹\n    ›\n\n    \n      \n        \n          \n        \n        \n          July 2021\n          WSU Newsroom\n        \n      \n    \n  \n\n\nTechnology First Award of Excellence\nMember of business students team awarded Technology First’s 2021 Award of Exellence for a group project that predicted pet adoption speeds\n\n    ‹\n    ›\n\n    \n      \n        \n          \n        \n        \n          June 2021\n          WSU Newsroom\n        \n      \n    \n  \n\n\nTau Beta Pi Harold M. King Fellowship\nSelected for the Tau Beta Pi Harold M. King Fellowship (2021 - 2022) which is given to a “recipient whose participation in his/her technical society is judged worthy of special mention” (&lt;8.5% selection rate among applicants)\n\n    ‹\n    ›\n\n    \n\n      \n        \n          \n        \n        \n          June 2022\n          2022 Fellow Reports\n        \n      \n\n      \n        \n          \n        \n        \n          May 2021\n          The Bulletin\n        \n      \n\n    \n  \n\n\nOrder of the Engineer\nNearly 70 engineering and computer science students took part in an induction ceremony for the Order of the Engineer and the Pledge of the Computing Professional\n\n    ‹\n    ›\n\n    \n\n      \n        \n          \n        \n        \n          May 2021\n          WSU Newsroom\n        \n      \n\n    \n  \n\n\nInstitute of Industrial and Systems Engineers Undergraduate Technical Paper Competition\nMember of engineering team who won the Institute of Industrial and Systems Engineers (IISE) Undergraduate Technical Paper Competion at the Great Lakes Regional Conference for our paper on redesigning a dental facility layout. The paper later won 2nd Place in the Global Finals at the 2021 IISE Annual Meeting.\n\n    ‹\n    ›\n\n    \n\n      \n        \n          \n        \n        \n          February 2021\n          WSU Newsroom\n        \n      \n\n    \n  \n\n\nSpaced Out Doc’s Blog: Meet Tau Bate, Kara\nFeatured in one of Dr. Michaelyn Thomas’s posts in her Spaced Out Doc blog\n\n    ‹\n    ›\n\n    \n\n      \n        \n          \n        \n        \n          August 2021\n          Spaced Out Doc's Blog"
+  },
+  {
+    "objectID": "features.html#section-6",
+    "href": "features.html#section-6",
+    "title": "Features",
+    "section": "2017",
+    "text": "2017\n\n16 Dayton-area valedictorians you should know\nNamed one of 16 Dayton-area valeditorians you should know in 2017; later featured in separate Wright State University Newsroom article\n\n    ‹\n    ›\n\n    \n\n      \n        \n          \n        \n        \n          June 2017\n          Dayton Daily News\n        \n      \n\n      \n        \n          \n        \n        \n          June 2017\n          WSU Newsroom"
+  },
+  {
+    "objectID": "awards.html",
+    "href": "awards.html",
+    "title": "Awards",
+    "section": "",
+    "text": "Expand All\nBelow is a collection of awards and honors recieved in recognition of contributions to research, professional service, and community engagement"
+  },
+  {
+    "objectID": "awards.html#section",
+    "href": "awards.html#section",
+    "title": "Awards",
+    "section": "2026",
+    "text": "2026\n\n\nTechnical Achievement Award (Individual) for Quarter 1 of 2026, AFRL Multi-domain Sensing Autonomy Division\n\n\nSelected by second-level supervisor (Division Chief) for completing PhD dissertation six months ahead of schedule in support of analogical reasoning\n\n\n\n\nSTEM Advocate(s) of the Quarter for Quarter 1 of 2026, AFRL Multi-domain Sensing Autonomy Division\n\n\nThe SMART scholar application review team was selected by their second-level supervisor (Division Chief) for their contribution to the FY26 cycle\n\n\n\n\nDivison Nominee for the Veiled Director’s Cup Team Award, AFRL Sensors Directorate\n\n\nMember of the Generating Adversarial Activity Models Automatically (GAAMA) team who was nominated by their second-level supervisor (Division Chief) for an AFRL product for a warfighter for classified operational use\n\n\n\n\nDivison Nominee for the Dr. Samuel M. Burka Memorial Award, AFRL Sensors Directorate\n\n\nAward recognizes the most significant in-house scientific accomplishment of the year; Nominated by second-level supervisor (Division Chief)\n\n\n\n\nDivision Nominee for the Lab Scientist of 2025 Q4, AFRL Sensors Directorate\n\n\nAward recognizes significant contributions made during the final quarter of 2025; Nominated by second-level supervisor (Division Chief)"
+  },
+  {
+    "objectID": "awards.html#section-1",
+    "href": "awards.html#section-1",
+    "title": "Awards",
+    "section": "2025",
+    "text": "2025\n\n\n2024 Chapter Excellence Award, INFORMS\n\n\nThe INFORMS Cincinnati-Dayton Chapter was selected based on its performance in membership, providing value to members, providing value to the community, communications, special initiatives, and administrative tasks in 2024\n\n\n\n\nBest Track Paper Nomination, 58th Hawaii International Conference on System Sciences (HICSS)\n\n\nNominated for the HICSS Decision Analytics and Service Science Track’s best paper for “Zero-shot comparison of large language models (LLMs) reasoning abilities on long-text analogies” (19 papers nominated out of 132 accepted papers across 34 mini-tracks)\n\n HICSS58 Best Paper Nominations   Read the paper"
+  },
+  {
+    "objectID": "awards.html#section-2",
+    "href": "awards.html#section-2",
+    "title": "Awards",
+    "section": "2024",
+    "text": "2024\n\n\nDivision Nominee for the Brian M. Hendrickson Memorial Award (Team), AFRL Sensors Directorate\n\n\nAward recognizes exceptional team research accomplishment in exploratory or advanced development and contribution of technology to the Air Force; Nominated by second-level supervisor (Division Chief) for contributions to the “Analogical Learning” team\n\n\n\n\nJudith Liebman Award, Institute for Operations Research and the Management Sciences (INFORMS)\n\n\nAward for student volunteers who have been “moving spirits” in their university, local chapter(s), and the Institute\n\n About INFORMS Judith Liebman Award \n\n\n\nStudent Leadership (Graduate Level) Award, Waves of Change STEM Conference\n\n\nAward given to a graduate student with a creative verve, accomplished academic record, & proven desire to help others succeed\n\n\n\n\nSTEM Advocate of the Quarter for Quarter 1 of 2024, AFRL Multi-domain Sensing Autonomy Division\n\n\nSelected by second-level supervisor for involvement with TechFest Dayton, a K-12 STEM oureach expo\n\n\n\n\nChief’s Pick for Quarter 4 of 2023, AFRL Multi-domain Sensing Autonomy Division\n\n\nSelected by second-level supervisor for work contributions"
+  },
+  {
+    "objectID": "awards.html#section-3",
+    "href": "awards.html#section-3",
+    "title": "Awards",
+    "section": "2023",
+    "text": "2023\n\n\nDivison Nominee for the Air Force Civillian of the Year (Category II) Award, AFRL Sensors Directorate\n\n\nNominated by second-level supervisor for work contributions throughout 2023; Category II corresponds to employees with equivalent rank between GS-9 and GS-11\n\n\n\n\nInno Under 25, Dayton Business Journal\n\n\nRecognition of the top founders, entrepreneurs, innovators, and leaders under 25 in the Dayton ecosystem\n\n Dayton Business Journal Article"
+  },
+  {
+    "objectID": "awards.html#section-4",
+    "href": "awards.html#section-4",
+    "title": "Awards",
+    "section": "2021",
+    "text": "2021\n\n\nNotable Fall 2021 Graduate, Wright State University\n\n\nFeatured as one of three notable students participating in Wright State University’s Fall 2021 commencement ceremony\n\n Wright State University Newsroom Article \n\n\n\nLaureate Award (Distinction: Service), Tau Beta Pi\n\n\nAward given annually to up to five student members who outstandingly exemplify the “spirit of liberal culture in engineering colleges”\n\n About the Tau Beta Pi Laureate Award   Wright State University Newsroom Article \n\n\n\n1st Place Award of Excellence (Higher Education), Technology First\n\n\nAward given to one Dayton-area undergraduate project in the field of information technology (IT) or analytics among the three finalists\n\n Wright State University Newsroom Article \n\n\n\n2nd Place Undergraduate Technical Paper Competition Global Finals, Institute for Industrial and System Engineers (IISE)\n\n\nSelected by a panel of judges among 10 global finalists; Co-author and presenter on project entitled “Putting a smile on redesigning: A dental facility layout problem”\n\n\n\n\nJames W. Barany Student Award for Excellence, Institute for Industrial and System Engineers (IISE)\n\n\nAward given to a graduating senior who has brought distinction to industrial engineering at their institution\n\n Wright State University Newsroom Article \n\n\n\nHarold M. King Fellowship No. 60, Tau Beta Pi\n\n\nAward based on merit to support Tau Beta Pi members pursuing graduate study (&lt;8.5% selection rate); Specific fellowship is given to a “recipient whose participation in his/her technical society is judged worthy of special mention”\n\n List of 2021 -2022 Tau Beta Pi Fellows   Wright State University Newsroom Article \n\n\n\n1st Place Great Lakes Regional Undergraduate Technical Paper Competition, Institute for Industrial and System Engineers (IISE)\n\n\nSelected by a panel of judges to represent the Great Lakes region in the Global Finals at the IISE Annual Meeting with the project, “Putting a smile on redesigning: A dental facility layout problem”\n\n Wright State University Newsroom Article"
+  },
+  {
+    "objectID": "awards.html#section-5",
+    "href": "awards.html#section-5",
+    "title": "Awards",
+    "section": "2020",
+    "text": "2020\n\n\n2nd Place Mini-poster Competition (Undergraduate Category), OR/MS Tomorrow\n\n\nSelected by a panel of judges for the mini-poster on “Cramming questions: Quiz bowl set optimization”\n\n Competition Winners Announcement \n\n\n\n2nd Place Undergraduate Technical Paper Competition Global Finals, Institute for Industrial and System Engineers (IISE)\n\n\nSelected by a panel of judges among 10 global finalists; Sole author on project entitled “Cramming questions: Quiz bowl set optimization”\n\n\n\n\nINFORMS Scholarship, OR/MS Tomorrow\n\n\nOne of twelve scholarship receipents to attend the INFORMS Annual Meeting (at the time of the award the scholarship was exclusively for undergraduate students)\n\n About the INFORMS Scholarship \n\n\n\nUPS Scholarship for Female Students, Institute for Industrial and System Engineers (IISE)\n\n\nAwarded one of IISE’s national scholarships for the 2020-2021 academic year\n\n\n\n\n1st Place Great Lakes Regional Undergraduate Technical Paper Competition, Institute for Industrial and System Engineers (IISE)\n\n\nSelected by a panel of judges to represent the Great Lakes region in the Global Finals at the IISE Annual Meeting with the project, “Cramming questions: Quiz bowl set optimization”"
+  },
+  {
+    "objectID": "awards.html#section-6",
+    "href": "awards.html#section-6",
+    "title": "Awards",
+    "section": "2019",
+    "text": "2019\n\n\nRecords Scholar No. 1476, Tau Beta Pi\n\n\nReceiptient of one of Tau Beta Pi’s undergraduate scholarships (56% selection rate)\n\n Scholar Biographies"
+  },
+  {
+    "objectID": "about_me.html",
+    "href": "about_me.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Below is an overview of my educational background, experience, and professional service."
+  },
+  {
+    "objectID": "about_me.html#education",
+    "href": "about_me.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\n\nPh.D. Operations Research, Air Force Institute of Technology, Jan. 2023 – Mar. 2026\nM.S. Industrial and Human Factors Engineering, Wright State University, Aug. 2019 - Dec. 2021\nB.S. Industrial and Systems Engineering, Wright State University, Aug. 2017 - May 2021"
+  },
+  {
+    "objectID": "about_me.html#experience",
+    "href": "about_me.html#experience",
+    "title": "About Me",
+    "section": "Experience",
+    "text": "Experience\n\nComputer Engineer, Air Force Research Laboratory, Jan. 2025 - present\nAssociate Computer Engineer, Air Force Research Laboratory, Feb. 2023 - Jan. 2025\nResearch Engineer, Applied Research Solutions, Apr. 2022 - Feb. 2023\nGraduate Research Assistant, Wright State University, May 2021 - Dec. 2021\nResearch Engineer Intern, Applied Research Solutions, May 2020 - Mar. 2022"
+  },
+  {
+    "objectID": "about_me.html#professional-service-membership",
+    "href": "about_me.html#professional-service-membership",
+    "title": "About Me",
+    "section": "Professional Service & Membership",
+    "text": "Professional Service & Membership\n\n\n\n\n\n\n\nPosition\nOrganization\n\n\n\n\nPresident\nCincinnati-Dayton INFORMS Chapter\n\n\nEditorial Board Member\nOR/MS Tomorrow (Student-led magazine of INFORMS)\n\n\nSecretary-Treasurer\nTau Beta Pi Dayton Alumni Chapter\n\n\nAdvisor\nTau Beta Pi Ohio Eta Chapter (Air Force Institute of Technology)\n\n\nAdvisor\nTau Beta Pi Ohio Mu Chapter (Wright State University)\n\n\nDirector of Communications\nTechFest Dayton Foundation\n\n\nExhibitors Coordinator\nTechFest Dayton Steering Committee\n\n\nMember\nWright State University Biomedical, Industrial and Human Factors Engineering Department’s External Advisory Board\n\n\nMember\nMilton-Union Miami Valley Career Technical Center STEM Advisory Board\n\n\nMember\nWomen in Defense\n\n\nMember\nSociety of Women Engineers"
+  },
+  {
+    "objectID": "about_me.html#peer-review-service",
+    "href": "about_me.html#peer-review-service",
+    "title": "About Me",
+    "section": "Peer Review Service",
+    "text": "Peer Review Service\n\nJournals\n\nIndustrial & Systems Engineering Review, Editorial Review Board Member\nInternational Journal of ELectronics Engineering & Education, ad hoc\nKnowledge-based Systems, ad hoc\nTechnology Information and Management, ad hoc\n\n\n\nConferences\n\nHawaii International Conference on System Sciences (HICSS), ad hoc\nIEEE National Aerospace and Electronics Conference (NAECON), ad hoc"
+  },
+  {
+    "objectID": "collaboration.html",
+    "href": "collaboration.html",
+    "title": "Collaboration Opportunities",
+    "section": "",
+    "text": "Interested in collaborating? Use the tool below to receive a personalized set of opportunities tailored to your role and interests. Note that the majority of opportunities are limited to U.S. citizens due to funding and security requirements, but there are some options for international collaborators as well. Lastly, funding is not necessarily available for all these opportunities at this time; however, with advance notice, we can often identify potential funding sources and support proposal development for strong collaborations.\n\n\n\n    \n    \n\n    \n\n        \n            1. Which role best describes you?\n            \n                \n                     Faculty or researcher \n                \n                \n                     Graduate student \n                \n                \n                     Undergraduate student \n                \n                \n                     High school student (at least 16-years-old) \n                \n                \n            \n        \n\n        \n            2. Are you interested in a summer-only, year-around (and/or multi-year) opportunity, or both?\n            \n                \n                     Summer-only \n                \n                \n                     Year-around/multi-year\n                \n                \n                     Both\n                \n            \n        \n\n        \n            3. Is your university/business located in any of the following regions? Select all that apply.\n            \n                \n                     Ohio \n                \n                \n                     Non-U.S. country \n                \n                \n                     I am not located in any of the above regions \n                \n            \n        \n\n        \n            Show My Opportunities\n            Start Over\n        \n        \n    \n\n    \n        Recommended Opportunities"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "I am a computer engineer at the Air Force Research Laboratory. I hold a Ph.D. in operations research, a M.S. in industrial and human factors engineering, and a B.S. in industrial and systems engineering. My research focuses on enhancing defense applications of artificial intelligence and machine learning (AI/ML) through biologically-inspired mechanisms based on analogical reasoning, neuroscience, and more! I have 20+ peer-reviewed publications and have presented my work at 30+ conferences. I am active in several professional societies and K-12 STEM outreach events.\n\n Google Scholar   ORCiD   Web of Science    DBLP"
+  },
+  {
+    "objectID": "index.html#hi-im-kara-combs",
+    "href": "index.html#hi-im-kara-combs",
+    "title": "Home",
+    "section": "",
+    "text": "I am a computer engineer at the Air Force Research Laboratory. I hold a Ph.D. in operations research, a M.S. in industrial and human factors engineering, and a B.S. in industrial and systems engineering. My research focuses on enhancing defense applications of artificial intelligence and machine learning (AI/ML) through biologically-inspired mechanisms based on analogical reasoning, neuroscience, and more! I have 20+ peer-reviewed publications and have presented my work at 30+ conferences. I am active in several professional societies and K-12 STEM outreach events.\n\n Google Scholar   ORCiD   Web of Science    DBLP"
+  },
+  {
+    "objectID": "index.html#recent-news",
+    "href": "index.html#recent-news",
+    "title": "Home",
+    "section": "Recent News",
+    "text": "Recent News\n\nMay 2026\n\nSelected by second-level supervisor (Division Chief) for the STEM Advocate(s) of the Quarter (as part of the SMART Scholarship Application review team) and Technical Achievement (Individual) for Quarter 1 of 2026\nPaper on “A comparison of machine-generated narrative knowledge graphs against human interpretation” accepted for publication in Industrial and Systems Engineering Review, on which high school LEGACY Scholar, Isaiah Goble, is the first author\nChaired the “Knowledge Graphs & Text Analytics” session, which included my presentation on “Statistical quantification of analogical correspondence in knowledge graphs,” at the IISE Annual Conference & Expo 2026 in Arlington, TX\n\nApril 2026\n\nAppointed to the Editorial Review Board for Industrial and Systems Engineering Review\n\n\n\n See more news here!"
+  },
+  {
+    "objectID": "index.html#pictures",
+    "href": "index.html#pictures",
+    "title": "Home",
+    "section": "Pictures",
+    "text": "Pictures\n\n\n\n  \n  \n    \n    Engineers Club of Dayton Barn Gang 2022\n  \n\n  \n    \n    IISE Great Lakes Regional Conference 2020\n  \n\n  \n    \n    Tau Beta Pi District 7 Conference 2024\n  \n\n  \n    \n    Technology First Awards 2021\n  \n\n  \n    \n    OR/MS Tomorrow at the 2022 INFORMS Annual Meeting\n  \n\n  \n    \n    TechFest 2025 Steering Committee Members\n  \n\n  \n    \n    STEMtoSky 2026 Even at Madison Park Elementary (Trotwood, OH)\n  \n\n  \n  ‹\n  ›"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "2026\n\n\n\n\nMay 2026\n\nSelected by second-level supervisor (Division Chief) for the STEM Advocate(s) of the Quarter (as part of the SMART Scholarship Application review team) and Technical Achievement (Individual) for the First Quarter of 2026\nPaper on “A comparison of machine-generated narrative knowledge graphs against human interpretation” accepted for publication in Industrial and Systems Engineering Review, on which high school LEGACY Scholar, Isaiah Goble, is the first author\nChaired the “Knowledge Graphs & Text Analytics” session, which included my presentation on “Statistical quantification of analogical correspondence in knowledge graphs,” at the IISE Annual Conference & Expo 2026 in Arlington, TX\n\nApril 2026\n\nAppointed to the Editorial Review Board for Industrial and Systems Engineering Review\n\nMarch 2026\n\nGraduated from the Air Force Institute of Technology with a Ph.D. in Operations Research\nPresentation accepted at the 94th Military Operations Research Society (MORS) Symposium\nAnalogy2KG (“Analogy to Knowledge Graph”) article published in Knowledge-based Systems journal (see here)\n\nFebruary 2026\n\nTechFest Dayton 2026 had over 2,500+ attendees, of which 1,500+ were K-12 students, check out over 50 exhibitors and presenters at the event over President’s Day weekend\nNominated at the division-level for the 2025 Dr. Samuel M. Burka Memorial Award, the 2025 Lab Scientist of the Fourth Quarter, and the Veiled Director’s Cup Team Award\n\nJanuary 2026\n\nSuccessfully defended Ph.D. dissertation, “Modernization of Analogical Reasoning Through Knowledge Graphs: Representation, Mapping, and Learning”\nThree papers published in the Proceedings of the 59th Hawaii International Conference on System Sciences (HICSS), see more at my publications page\n\n\n\n\n\n\n\n  2025\n\n\n\n\nNovember 2025\n\nINFORMS Cincinnati-Dayton awarded a 2024 Chapter Excellence award\n\nSeptember 2025\n\nOral presentation and poster accepted at AFRL Discover\n\nAugust 2025\n\nThree papers accepted at the 59th Hawaii International Conference on System Sciences (HICSS)\nPassed prospectus defense and entered into Ph.D. candidacy\n\nJuly 2025\n\nPassed Ph.D. specialty exam\n\nJune 2025\n\nPaper accepted for oral presentation at IEEE National Aerospace Eletronics Conference (NAECON) 2025\n\nApril 2025\n\nPaper on the analogical reasoning abilities and energy efficient of large language models accepted to IEEE Transactions on Cognitive and Developmental Sciences\n\nFebruary 2025\n\nTechFest Dayton 2025 had 2,200+ attendees\n\nJanuary 2025\n\nThree papers presented at the 58th Hawaii International Conference on System Sciences (HICSS)\n\n“Zero-shot comparison of large language models (LLMs) reasoning abilities on long-text analogies” nominated for best paper\n\n\n\n\n\n\n\n\n  2024\n\n\n\n\nNovember 2024\n\nSelected by second-level supervisor as the division nominee for the Brian M. Hendrickson Memorial Award (Analogical Learning Team)\n\nOctober 2024\n\nNamed as one of the receipents of INFORMS’s Judith Liebman Award at the 2024 INFORMS Annual Meeting\nSelected for the Waves of Change STEM Conference’s Student Leadership (Graduate Level) Award\n\nJune 2024\n\nSelected by second-level supervisor as the division’s STEM Advocate for Quarter 1 of 2024 award\n\nMarch 2024\n\nPaper accepted at the ACM SIGMIS Computers and People Research Conference\n\nFebruary 2024\n\nSelected by second-level supervisor as the division’s Chief’s Pick for Quarter 4 of 2023\nTechFest Dayton 2024 had 2,000+ attendees\n\nJanuary 2024\n\nThree paper presented at the 57th Hawaii International Conference on System Sciences (HICSS)\n\n\n\n\n\n\n\n  2023\n\n\n\n\nNovember 2023\n\nSelected by second-level supervisor as the division nominee for the 2023 Category II Air Force Civillian of the Year Award (equivalent of a GS-9 through GS-11 employee)\n\nOctober 2023\n\nRecognized as one of five “Inno(vators) under 25” by the Dayton Business Journal\n\nMay 2023\n\nPaper presented at the IISE Annual Conference 2023\n\nJanuary 2023\n\nTwo papers presented at the 57th Hawaii International Conference on System Sciences (HICSS)"
+  }
+]

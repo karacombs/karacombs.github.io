@@ -1,9 +1,9 @@
-# Quarto local build + cache
+# Legacy output from the former Quarto build
 _site/
 .quarto/
 _freeze/
 
-# Legacy output from old /docs publishing (safe to ignore now that you're on Actions)
+# Legacy output from old /docs publishing
 docs/
 
 # Jupyter & Python
