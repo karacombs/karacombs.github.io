@@ -306,7 +306,7 @@ DAGSI fellows are graduate students competitively selected to work with an AFRL 
 <details>
   <summary><strong>Derrick Cox</strong>, <em>Ph.D. in Computer Science at Wright State University</em></summary>
   <ul>
-    <li> 2024 - 2026 Project: Event sequence learning from textual scenarios (incorporated into 2026 NARST presentation, IEEE TCSS paper [in review], and IEEE BigData paper [in review])</li>
+    <li> 2024 - 2026 Project: Event sequence learning from textual scenarios (incorporated into 2026 NARST presentation, PLoS ONE [in progress], IEEE BigData paper [in review])</li>
   </ul>
 </details>
 
