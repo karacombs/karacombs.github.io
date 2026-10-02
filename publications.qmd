@@ -107,7 +107,7 @@ fig.show()
 
 <!-- 
 Colors:
-#220025ff, #80008cff, #a900b9ff, #6a346fff, #b558bdff
+#220025ff, #80008cff, #a900b9ff, #6a346fff, #b558bdff, #7A64B0
 
 Type Badges:
 <span class="badge rounded-pill" style="background-color:transparent; border:1px solid #220025ff; color:#6220025ff;"> Journal </span>
@@ -115,6 +115,7 @@ Type Badges:
 <span class="badge rounded-pill" style="background-color:transparent; border:1px solid #80008cff; color:#80008cff;"> Magazine </span>
 <span class="badge rounded-pill" style="background-color:transparent; border:1px solid #a900b9ff; color:#a900b9ff;"> Presentation </span>
 <span class="badge rounded-pill" style="background-color:transparent; border:1px solid #b558bdff; color:#b558bdff;"> Poster </span> 
+<span class="badge rounded-pill" style="background-color:transparent; border:1px solid #7A64B0ff; color:#7A64B0ff;"> Patent </span> 
 
 Special Badges:
 Link: <a class="badge bg-primary" href="LINK">TEXT</a> 
@@ -136,6 +137,7 @@ Non-Link: <span class="badge bg-primary">TEXT</span>
 
 ## 2026
 ::: {.2026}
+1. <span class="badge rounded-pill" style="background-color:transparent; border:1px solid #7A64B0ff; color:#7A64B0ff;"> Patent </span> Bihl, T. & **Combs, K.** Method and system for the input recognition through analogical reasoning algorithm (IRTARA). U.S. Patent 12,762,437, filed December 13, 2022, and issued October 13, 2026.
 1. <span class="badge rounded-pill" style="background-color:transparent; border:1px solid #220025ff; color:#220025ff;"> Journal </span> **Combs, K.,** Champagne, L., Cox, B., Schubert Kabban, C., Bihl, T., & Lemming, G. (2026). Analogy2KG: An automatic pipeline for deriving knowledge graphs from long-text analogies. *Knowledge-based Systems, 341,* 115772. DOI: [10.1016/j.knosys.2026.115772](https://doi.org/10.1016/j.knosys.2026.115772).
 1. <span class="badge rounded-pill" style="background-color:transparent; border:1px solid #220025ff; color:#220025ff;"> Journal </span> ^\*^Goble, I., **Combs, K.**, & Lemming, G. (2026). A comparison of machine-generated narrative knowledge graphs against human interpretation. *Industrial & Systems Egineering Review, accepted.*
 1. <span class="badge rounded-pill" style="background-color:transparent; border:1px solid #220025ff; color:#220025ff;"> Journal </span> ^\*^Liu, J., **Combs., K.**, & Boubin, J. Efficient unsupervised band selection for hyperspectral imagery with Mamba-based classifier -- An in-depth comparative analysis. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 19*, 27023-24037. DOI: [10.1109/JSTARS.2026.3721721](https://doi.org/10.1109/JSTARS.2026.3721721).

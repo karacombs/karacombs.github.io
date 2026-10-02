@@ -93,6 +93,10 @@ page-layout: full
 ::: {.accordion-collapse .collapse .show #collapse2026 data-bs-parent="#newsAccordion"}
 ::: {.accordion-body}
 
+**October 2026**
+
+- Awarded U.S. Patent 12,762,437 for the invention of a "Method and system for the input recognition through analogical reasoning algorithm (IRTARA)" (issued October 13, 2026)
+
 **September 2026**
 
 - Recognized as one of the [Society of Women Engineers (SWE) 2026 Rising Technical Contributor Award](https://alltogether.swe.org/2026/09/2026-swe-awards-recipients/) for individuals who have had outstanding technical performance and/or leadership in a technical field, professional organizations, and the community who have five or less years of experience in engineering and related disciplines
