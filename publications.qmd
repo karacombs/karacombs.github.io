@@ -38,7 +38,7 @@ df.sort_values(["Year","Publication Type"], ascending=[False, True])
 from pandas.api.types import CategoricalDtype
 
 # Define the publication types to include in the figure.
-pub_type_order = ["Journal", "Conference", "Presentation", "Poster"]
+pub_type_order = ["Journal", "Conference", "Presentation", "Poster", "Patent"]
 pub_type_cat = CategoricalDtype(categories=pub_type_order, ordered=True)
 df["Publication Type"] = df["Publication Type"].astype(pub_type_cat)
 
@@ -73,7 +73,7 @@ grid_html = f"""
 display(HTML(grid_html))
 
 # Set custom colors for each publication type
-custom_colors = ["#220025", "#80008c", "#a900b9", "#b558bd"]
+custom_colors = ["#220025", "#80008c", "#a900b9", "#b558bd", "#7A64B0"]
 
 # Make chart
 fig = px.bar(
