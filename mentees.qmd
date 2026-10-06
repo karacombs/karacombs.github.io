@@ -88,7 +88,7 @@ I enjoy working with students of all ages and make an effort to mentor the next 
       <div class="slide-text" style="flex: 1; padding-left: 20px; display: flex; flex-direction: column; justify-content: center;">
         <h4 style="color: #553590; margin-bottom: 15px;">Isaiah Goble</h4>
         <h6 margin-bottom: 15px;"><em>LEGACY Jr. Apprentice 2024 & 2025</em></h6>
-        <p>Projects incorporated into two AIAA DCASS presentations, an IEEE NAECON paper, and an IEEE TCDS paper</p>
+        <p>Projects incorporated into two AIAA DCASS presentations, an [ISER paper](https://westpointpressjournals.westpoint.edu/index.php/iser/article/view/265), and an [IEEE TCDS paper](https://doi.org/10.1109/TCDS.2025.3559771)</p>
       </div>
     </div>
   </div>
@@ -317,7 +317,7 @@ LEGACY interns are rising high school juniors/seniors or collegiate students who
 <details>
   <summary><strong>Isaiah Goble</strong>, <em>B.S. in Computer Engineering at Bowling Green State University</em></summary>
   <ul>
-    <li> 2025 Project: Development of machine-interpretable knowledge graph datasets from analogies (incorporated into ISER paper, accepted)</li>
+    <li> 2025 Project: Development of machine-interpretable knowledge graph datasets from analogies (incorporated into [ISER paper](https://westpointpressjournals.westpoint.edu/index.php/iser/article/view/265))</li>
     <li> 2024 Project: Evaluation and comparison of large language models’ analogical reasoning abilities (incorporated into [IEEE TCDS Paper](https://doi.org/10.1109/TCDS.2025.3559771)) </li>
   </ul>
 </details>
