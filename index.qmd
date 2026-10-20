@@ -44,7 +44,7 @@ I am a computer engineer at the Air Force Research Laboratory. I hold a Ph.D. in
 
 **October 2026**
 
-- Awarded U.S. Patent 12,762,437 for the invention of a "Method and system for the input recognition through analogical reasoning algorithm (IRTARA)" (issued October 13, 2026)
+- Awarded U.S. Patent 12,762,437 for the invention of a "Method and system for the input recognition through analogical reasoning algorithm (IRTARA)" (issued October 13, 2026) [[PDF](files/US-12762437-B1.pdf)]
 
 - Isaiah Goble, DAF LEGACY Scholar, had his 2025 summer project, "A comparison of machine-generated narrative knowledge graphs against human interpretation" published in [*Industrial & Systems Engineering Review*](https://westpointpressjournals.westpoint.edu/index.php/iser/article/view/265)
 
