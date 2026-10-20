@@ -346,7 +346,7 @@ UAlbany News Center article featuring Olivia Benaoumeur, an U.S. Department of D
     <div class="carousel-wrapper" id="carousel18">
       <a href="https://www.albany.edu/news-center/news/2025-ualbany-phd-student-receives-federal-national-defense-scholarship" class="feature-card" target="_blank">
         <div class="card-image has-img" style="background-color: white;">
-          <img src="https://www.albany.edu/sites/default/files/styles/social_imag/public/Olivia_1_mn.jpg" alt="UAlbany News Center" style="object-fit: cover; object-position: center 5%;">
+          <img src="https://www.albany.edu/sites/default/files/styles/default/public/Olivia_1_mn.jpg.avif?itok=v13YU_hR" alt="UAlbany News Center" style="object-fit: cover; object-position: center 5%;">
         </div>
         <div class="feature-card-content">
           <div class="date">November 2025</div>
