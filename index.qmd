@@ -42,6 +42,10 @@ I am a computer engineer at the Air Force Research Laboratory. I hold a Ph.D. in
 
 ::: {.timeline}
 
+**November 2026**
+
+- Derrick Cox, DAGSI Fellow, had a paper, Discourse-derived moral foundations profiling of politically distinct online communities via conversation flow-based learning accepted to the 12th Special Session on Intelligent Data Mining (co-located with 2026 IEEE BigData) and successfully defended his Ph.D dissertation at Wright State University (Dayton, OH)
+
 **October 2026**
 
 - Awarded U.S. Patent 12,762,437 for the invention of a "Method and system for the input recognition through analogical reasoning algorithm (IRTARA)" (issued October 13, 2026) [[PDF](files/US-12762437-B1.pdf)]
